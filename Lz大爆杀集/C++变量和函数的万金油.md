@@ -23,7 +23,7 @@ void print(T value) {
 }
 // 可以用于任何支持<<操作的类型
 ```
-
+___
 ## 2.Auto变量
 **基本用法**：自动类型推导
 
@@ -35,5 +35,5 @@ auto s = "hello";   // s是const char*类型
 auto v = {1, 2, 3}; // v是std::initializer_list<int>类型
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg3NzAwMTddfQ==
+eyJoaXN0b3J5IjpbNzkxOTI1MDQ0XX0=
 -->
