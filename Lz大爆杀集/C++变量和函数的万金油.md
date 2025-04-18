@@ -23,8 +23,17 @@ void print(T value) {
 }
 // 可以用于任何支持<<操作的类型
 ```
-## 2.Auto变量
 
+## 2.Auto变量
+**基本用法**：自动类型推导
+
+`auto`让编译器根据初始化表达式自动推导变量类型：
+``` C++
+auto i = 42;        // i是int类型
+auto d = 3.14;      // d是double类型
+auto s = "hello";   // s是const char*类型
+auto v = {1, 2, 3}; // v是std::initializer_list<int>类型
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg3MzE2ODVdfQ==
+eyJoaXN0b3J5IjpbLTEyODg3NzAwMTddfQ==
 -->
