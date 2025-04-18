@@ -1,4 +1,4 @@
-# Template模板&Auto变量
+# Template模板&Auto变量(25.4.18)
 ## 1.Template模板
 `Template<typename T>`:声明了一个**模板参数**，表示"这里有一个类型T，具体是什么类型在使用时决定"。
 ```C++
@@ -61,5 +61,5 @@ for (auto& element : vec) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDg4ODMwOSw3OTE5MjUwNDRdfQ==
+eyJoaXN0b3J5IjpbMTg4MjM3NzQxNiw3OTE5MjUwNDRdfQ==
 -->
