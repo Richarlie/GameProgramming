@@ -1,4 +1,5 @@
 # Template模板&Auto变量
+## 1.Template模板
 `Template<typename T>`:声明了一个**模板参数**，表示"这里有一个类型T，具体是什么类型在使用时决定"。
 ```C++
 template<typename T>  // 声明一个类型参数T
@@ -22,6 +23,8 @@ void print(T value) {
 }
 // 可以用于任何支持<<操作的类型
 ```
+## 2.Auto变量
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjg0MjgyXX0=
+eyJoaXN0b3J5IjpbLTE2Nzg3MzE2ODVdfQ==
 -->
