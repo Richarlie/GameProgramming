@@ -46,26 +46,12 @@ std::vector<std::pair<int, std::string>>::iterator it = vec.begin();
 // 使用auto
 auto it = vec.begin();  // 简洁明了
 ```
-#### 2. 配合模板编程
-```C++
-template<typename T, typename U>
-auto add(T t, U u) -> decltype(t + u) {
-    return t + u;
-}
-```
-### 2.3 范围for循环
-
-cpp
-
-复制
-
-下载
+#### 2.3 范围for循环
 
 std::vector<int> vec = {1, 2, 3};
-
+```C++
 // 不使用auto
 for (std::vector<int>::iterator it = vec.begin(); it != vec.end(); ++it)
-
 // 使用auto
 for (auto it = vec.begin(); it != vec.end(); ++it)
 
@@ -73,6 +59,7 @@ for (auto it = vec.begin(); it != vec.end(); ++it)
 for (auto& element : vec) {
     element *= 2; // 可以修改元素
 }
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NzU4MjI1LDc5MTkyNTA0NF19
+eyJoaXN0b3J5IjpbMTY5NDg4ODMwOSw3OTE5MjUwNDRdfQ==
 -->
