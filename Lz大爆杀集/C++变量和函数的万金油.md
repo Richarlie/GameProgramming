@@ -35,37 +35,24 @@ auto s = "hello";   // s是const char*类型
 auto v = {1, 2, 3}; // v是std::initializer_list<int>类型
 ```
 
-## 主要应用场景
+### 主要应用场景
 
-### 2.1 简化复杂类型声明
+#### 1. 简化复杂类型声明
 
 特别是对于迭代器和模板类型：
-
-cpp
-
-复制
-
-下载
-
+```C++
 // 不使用auto
 std::vector<std::pair<int, std::string>>::iterator it = vec.begin();
-
 // 使用auto
 auto it = vec.begin();  // 简洁明了
-
-### 2.2 配合模板编程
-
-cpp
-
-复制
-
-下载
-
+```
+#### 2. 配合模板编程
+```C++
 template<typename T, typename U>
 auto add(T t, U u) -> decltype(t + u) {
     return t + u;
 }
-
+```
 ### 2.3 范围for循环
 
 cpp
@@ -87,5 +74,5 @@ for (auto& element : vec) {
     element *= 2; // 可以修改元素
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDU0NzkyNiw3OTE5MjUwNDRdfQ==
+eyJoaXN0b3J5IjpbNTQ3NzU4MjI1LDc5MTkyNTA0NF19
 -->
