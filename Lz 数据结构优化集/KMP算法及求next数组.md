@@ -53,6 +53,76 @@ int main() {
     return 0;
 }
 ```
+实验中的KMP算法题的答案：
+```C++
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <string>
+using namespace std;
+
+vector<int>BPM(string &pattern){
+	vector<int>next(pattern.size(),0);
+	int len=0;
+	for(int i=1;i<next.size();i++){
+		if(pattern[i]==pattern[len]){
+			next[i++]=++len;
+		}
+		else{
+			if(len!=0){
+				len=next[len-1];
+			}
+			else{
+				next[i++]=0;
+			}
+		}
+	}
+	return next;
+}
+
+int KMP(string text,string pattern){
+	if(pattern.empty()){return 0;}
+	vector<int>next=BPM(pattern);
+	int i=0,j=0;
+	while(i<text.size()&&j<pattern.size()){
+		if(text[i]==pattern[j]){
+			i++;
+			j++;
+			if(j==pattern.size()){
+				return i-j;
+			}
+		}
+		else{
+			if(j!=0){
+				j=next[j-1];
+			}
+			else{
+				i++;
+			}
+		}
+	}
+	return -1;
+}
+
+int main(){
+	ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+	int n;
+	string text,pattern;
+	cin>>n;
+	cin.ignore();
+	for(int i=0;i<n;++i){
+		getline(cin,text);
+		getline(cin,pattern);
+		int k=KMP(text,pattern);
+		if(k==-1){cout<<0<<'\n';}
+		else{cout<<k+1<<'\n';}
+	}
+	
+	return 0;
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTU0NTMwMyw4Mzg1NDMyNzNdfQ==
+eyJoaXN0b3J5IjpbLTQ4MzEwMzIxLC00NDE1NDUzMDMsODM4NT
+QzMjczXX0=
 -->
