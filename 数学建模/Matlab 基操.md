@@ -1,5 +1,6 @@
 # Matlab基操
-1. `alt`+``:切换代码和文本
+1. `Alt`+`Enter`:切换代码和文本
+2. `Ctrl`+`Alt`+`ENt`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ3MTI1MTBdfQ==
+eyJoaXN0b3J5IjpbLTExMDI0MTM5NzVdfQ==
 -->
