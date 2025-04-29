@@ -31,8 +31,8 @@ int main(){
 ```
 
 ## 五.数学公式
-![输入图片说明](/imgs/2025-04-29/OYWASF1VeUbrSUIZ.png)![输入图片说明](/imgs/2025-04-29/MtR3qu0hLKKbYv2c.png)
+![输入图片说明](/imgs/2025-04-29/OYWASF1VeUbrSUIZ.png)![输入图片说明](/imgs/2025-04-29/MtR3qu0hLKKbYv2c.png)![输入图片说明](/imgs/2025-04-29/xlvA28cbdJ0Xz8Cr.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDQzMTEzMiw3NTQwMTU4NThdfQ==
+eyJoaXN0b3J5IjpbMTA1MzUzNjYyMiw3NTQwMTU4NThdfQ==
 -->
