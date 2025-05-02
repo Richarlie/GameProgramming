@@ -5,7 +5,8 @@
 3. `Ctrl`+`r`:注释
 4. `Ctrl`+`t`:取消注释
 5. `%`：注释
+6. 输入矩阵：` `或`,`隔开同行元素，`;`分行
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzA1MDg5NywxMDM1NDk3OTg0LC0xMT
-AwODM1MThdfQ==
+eyJoaXN0b3J5IjpbLTEwMjI3OTQ1MjUsMTAzNTQ5Nzk4NCwtMT
+EwMDgzNTE4XX0=
 -->
