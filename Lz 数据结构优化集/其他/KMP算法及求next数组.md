@@ -1,4 +1,23 @@
 # KMP算法及求Next函数
+**求next数组的解：**
+``` C++
+int j=1,k=0;
+    next[0]=-1;
+    while(j<T[0])
+    {
+        if(k==0||T[j]==T[k])
+        {
+            j++;
+            k++;
+            next[j]=k;
+        }
+        else
+        {
+            k=next[k];
+        }
+    }
+```
+
 ```C++
 #include <vector>
 #include <string>
@@ -123,5 +142,5 @@ int main(){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzEwMzIxXX0=
+eyJoaXN0b3J5IjpbODAwNzUwNjA4LC00ODMxMDMyMV19
 -->
