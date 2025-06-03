@@ -17,7 +17,7 @@ int j=1,k=0;
         }
     }
 ```
-
+**KMP:**
 ```C++
 #include <vector>
 #include <string>
@@ -142,5 +142,6 @@ int main(){
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNzUwNjA4LC00ODMxMDMyMV19
+eyJoaXN0b3J5IjpbMjA5MTEzMTQ2MCw4MDA3NTA2MDgsLTQ4Mz
+EwMzIxXX0=
 -->
