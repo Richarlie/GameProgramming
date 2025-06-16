@@ -1,25 +1,24 @@
 # n皇后问题
-# Description
+### Description
 
 有N*N的国际象棋棋盘，要求在上面放N个皇后，要求任意两个皇后不会互杀，有多少种不同的放法
   
 
-# 输入格式
+### 输入格式
 
 每一个数为T，代表CASE的数量，T<=13
 此后，每行一个数N（13>=N>0）
 
   
 
-# 输出格式
+### 输出格式
 
 每一个CASE，输出对应答案
 
   
   
 
-# 输入样例
-
+> 输入样例
 2
 4
 5
@@ -27,8 +26,7 @@
   
   
 
-# 输出样例
-
+>输出样例
 2
 10
 
@@ -80,5 +78,5 @@ int main() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTAxNTgwN119
+eyJoaXN0b3J5IjpbLTcxODQ5NTIyN119
 -->
