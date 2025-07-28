@@ -72,7 +72,8 @@ for i in string:
 a="hello world!"
 a=a[1:6]
 #表明要切取前五个字符
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjExNzgxMTddfQ==
+eyJoaXN0b3J5IjpbLTU0MTcyNTk1LC0xMDIxMTc4MTE3XX0=
 -->
