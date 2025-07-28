@@ -147,12 +147,15 @@ a=sorted(a)
 #前者直接修改列表中的元素，后者返回一个新列表
 ```
 ## 元组 · 集合 · 字典
+1. 元组 
 与列表的区别是：元组中的元素无法修改，只能访问
 ```python
-	
+	a=(1,2,3)
 ```
+2. 集合
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU4OTIxMDMsMTEyNDg1MzgyMiwxMT
+eyJoaXN0b3J5IjpbLTE0NjcwNzgwNDIsMTEyNDg1MzgyMiwxMT
 IwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3
 ODExN119
 -->
