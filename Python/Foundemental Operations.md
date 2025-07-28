@@ -103,7 +103,7 @@ a = "hello".title() #全体大写
 a = "hello".lower() #字符串中大写转小写
 a = "hello".upper() #字符串中小写转大写
 
-#列表
+#列表(里面内容不拘一格，可以为所欲为)
 array = [
 	[[1,2,3][4,5,6][7,8,9]]
 	[[1,2,3][4,5,6][7,8,9]]
@@ -113,8 +113,12 @@ for a in array:
 	for b in a:
 		for c in b:
 			print(c) 
+
+#表中查找元素
+b=12
+a=[
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTY4NTU2MiwxMTIwMzY2MDE5LC0xMj
+eyJoaXN0b3J5IjpbMjA4NTE3MzgyMSwxMTIwMzY2MDE5LC0xMj
 AyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3ODExN119
 -->
