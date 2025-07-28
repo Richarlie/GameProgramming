@@ -85,9 +85,13 @@ a=[-5:-1]
 #表示要切取从倒数第五个字符到倒数第二个字符
 #py的范围都是左开右闭的
 
-#字符串的替换
+#替换
 a="hello world!"
 a=a.replace("hello","morning")
+
+#分割
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDc5MjQ4LC0xMDIxMTc4MTE3XX0=
+eyJoaXN0b3J5IjpbLTgxOTMxMzg1NiwtMTAyMTE3ODExN119
 -->
