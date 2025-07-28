@@ -125,11 +125,17 @@ a.append("abc")
 a.insert(1,'t')
 #表中元素删除
 a.pop(0)#下标
-a.remove("happy")#
-a.clear()
+a.remove("happy")#指定
+a.clear()#清空
+#表中元素修改
+a[0]=123
+# 表的复制
+b=a
+b=a.copy()
+#两者区别为a变b是否跟着变，前者会，后者不会
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzU3MTQ0NCwxMTI0ODUzODIyLDExMj
-AzNjYwMTksLTEyMDI4NzY1OTIsMTExNTQ0ODcyLC0xMDIxMTc4
-MTE3XX0=
+eyJoaXN0b3J5IjpbLTIwMzkzNzU4MjEsMTEyNDg1MzgyMiwxMT
+IwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3
+ODExN119
 -->
