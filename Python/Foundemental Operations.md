@@ -173,11 +173,15 @@ d.items() #[('name','pig'),('age',20)]
 
 ## 函数
 ```python
-
-def isDouble(n)
+#例：判断数字是否为偶数
+def isDouble(n):
+	if n%2 == 0:
+		return True
+	else:
+		returnb False
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5OTM0MDc1LDExMjQ4NTM4MjIsMTEyMD
-M2NjAxOSwtMTIwMjg3NjU5MiwxMTE1NDQ4NzIsLTEwMjExNzgx
-MTddfQ==
+eyJoaXN0b3J5IjpbLTIwNjI3NDQ0MzAsMTEyNDg1MzgyMiwxMT
+IwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3
+ODExN119
 -->
