@@ -25,6 +25,13 @@ c=random.random()#直接获得从0到1之间的小数
 a=false
 b= not a#and or not 与或非
 ```
+```python
+#条件语句:
+a=int(input("load:"))
+if a<0 or a>100:
+	print("Not right")
+elif a<
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg4NTgwNThdfQ==
+eyJoaXN0b3J5IjpbLTE2OTIwMzE5MDZdfQ==
 -->
