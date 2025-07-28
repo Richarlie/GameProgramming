@@ -38,7 +38,7 @@ elif a<80:
 else:
 	print("excellent")
 ```
-## xunhu
+## 循环
 ```python
 #循环语句:
 #while循环:
@@ -69,6 +69,7 @@ for i in string:
 #实际上只要for循环的这个范围是列表 字符串 元组 集合就都可以
 #由于py不像C那样有大括号括住循环范围，所以要严格规整缩进
 ```
+## 字符串
 ```python
 #字符串操作
 #切片
@@ -104,7 +105,9 @@ a = "hello".capitalize() #首字母大写
 a = "hello".title() #全体大写
 a = "hello".lower() #字符串中大写转小写
 a = "hello".upper() #字符串中小写转大写
-
+```
+## 列表
+```python
 #列表(里面内容不拘一格，可以为所欲为)
 array = [
 	[[1,2,3][4,5,6][7,8,9]]
@@ -143,8 +146,12 @@ a.sort()
 a=sorted(a)
 #前者直接修改列表中的元素，后者返回一个新列表
 ```
+## 元组
+```python
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMzMwMjkyLDExMjQ4NTM4MjIsMTEyMD
-M2NjAxOSwtMTIwMjg3NjU5MiwxMTE1NDQ4NzIsLTEwMjExNzgx
-MTddfQ==
+eyJoaXN0b3J5IjpbLTIyMDk0MzYwOCwxMTI0ODUzODIyLDExMj
+AzNjYwMTksLTEyMDI4NzY1OTIsMTExNTQ0ODcyLC0xMDIxMTc4
+MTE3XX0=
 -->
