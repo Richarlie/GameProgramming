@@ -96,7 +96,14 @@ arr=a.split(" ")
 #那要把零散的列表用“-”拼合起来
 string="-".join(arr)
 # hello-world!
+
+#大小写转换
+a = "hello".op()
+op:
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTQ0ODcyLC0xMDIxMTc4MTE3XX0=
+eyJoaXN0b3J5IjpbMTMwNDcwMzAzMywxMTE1NDQ4NzIsLTEwMj
+ExNzgxMTddfQ==
 -->
