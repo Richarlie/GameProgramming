@@ -178,17 +178,18 @@ def isDouble(n):
 	if n%2 == 0:
 		return True
 	else:
-		returnb False
+		return False
 #对于外部变量的声明
 def day():
 	global DAY
-	if day%2 == 0:
-		return True
+	if DAY%2 == 0:
+		print("...")
 	else:
-		returnb False
+		print(".")
+	Day += 1
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM2OTE1MjIsMTEyNDg1MzgyMiwxMT
+eyJoaXN0b3J5IjpbLTExMDcxNDA2MjIsMTEyNDg1MzgyMiwxMT
 IwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3
 ODExN119
 -->
