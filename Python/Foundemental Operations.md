@@ -68,6 +68,11 @@ for i in string:
 #由于py不像C那样有大括号括住循环范围，所以要严格规整缩进
 ```
 ```python
+#字符串的切片
+a="hello world!"
+a=a[1:6]
+#表明要切取前五个字符
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjI2ODY3NV19
+eyJoaXN0b3J5IjpbLTEwMjExNzgxMTddfQ==
 -->
