@@ -161,10 +161,15 @@ a={1,2,3,4}
 ```python
 d={"name":"hello"，"age":"20"}
 #所谓键值对：“name”——键 "hello"——值
-#类似于C++中的map和
+#等效于C++中的map和unordered map容器
+
+#获取所有键
+d.values() #['name','age']
+#获取所有值
+d.items() #
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjQ2NTkzMiwxMTI0ODUzODIyLDExMj
+eyJoaXN0b3J5IjpbMjE0MjIwMjk3MywxMTI0ODUzODIyLDExMj
 AzNjYwMTksLTEyMDI4NzY1OTIsMTExNTQ0ODcyLC0xMDIxMTc4
 MTE3XX0=
 -->
