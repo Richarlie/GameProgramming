@@ -39,8 +39,11 @@ else:
 ```
 ```python
 #循环语句:
-while 
+#while循环:
+a=0
+while a<100:
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY1NjczNjRdfQ==
+eyJoaXN0b3J5IjpbLTk0OTA0ODIyNV19
 -->
