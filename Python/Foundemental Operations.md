@@ -90,8 +90,11 @@ a="hello world!"
 a=a.replace("hello","morning")
 
 #分割
-
+#例：按空格分割
+arr=a.split(" ")
+#
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTMxMzg1NiwtMTAyMTE3ODExN119
+eyJoaXN0b3J5IjpbLTE3MjYzNzQyODYsLTEwMjExNzgxMTddfQ
+==
 -->
