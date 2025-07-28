@@ -164,12 +164,14 @@ d={"name":"hello"，"age":"20"}
 #等效于C++中的map和unordered map容器
 
 #获取所有键
-d.values() #['name','age']
+d.keys() #['name','age']
 #获取所有值
-d.items() #
+d.values() #['pig',20]
+#获取所有东西
+d.items() #[('name','pig'),('age',20)]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjIwMjk3MywxMTI0ODUzODIyLDExMj
+eyJoaXN0b3J5IjpbLTI5NjY4ODIyOSwxMTI0ODUzODIyLDExMj
 AzNjYwMTksLTEyMDI4NzY1OTIsMTExNTQ0ODcyLC0xMDIxMTc4
 MTE3XX0=
 -->
