@@ -49,18 +49,23 @@ while a<100:
 			continue
 	print("e")
 print("end")
+
 #for循环:
 for i in range(10):#表示从0到9
 	print(i)
 #亦可作:
+
  arr=[1,3,5,7,8]
 for i in arr:
 	print(i)
+	
 string = "ABCDEFG"
 for i in string:
 	print(i)
+	
+#实际上只要for循环的这个范围是列表 字符串 元组 集合就都可以
 #由于py不像C那样有大括号括住循环范围，所以要严格规整缩进
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MTcyMzBdfQ==
+eyJoaXN0b3J5IjpbLTE2MzE1MDAxNDNdfQ==
 -->
