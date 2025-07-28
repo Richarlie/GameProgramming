@@ -119,6 +119,7 @@ b=12
 a=[1,False,"happy",b,[1,2,3]]
 if 1 not in a:
 	print("...")
+	
 #表尾增加元素
 a.append("abc")
 #表中插入元素
@@ -133,9 +134,15 @@ a[0]=123
 b=a
 b=a.copy()
 #两者区别为a变b是否跟着变，前者会，后者不会
+
+#排序
+a=[4,1,2,3]
+a.sort()
+a=sorted(a)
+#前者直接修改列表中的元素，后者
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkzNzU4MjEsMTEyNDg1MzgyMiwxMT
+eyJoaXN0b3J5IjpbLTEwMTc5MzI1MDUsMTEyNDg1MzgyMiwxMT
 IwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3
 ODExN119
 -->
