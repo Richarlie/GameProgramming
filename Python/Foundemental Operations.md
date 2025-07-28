@@ -159,10 +159,12 @@ a={1,2,3,4}
 ```
 3. 字典
 ```python
-d={"name":}
+d={"name":"hello"，"age":"20"}
+#所谓键值对：“name”——键 "hello"——值
+#类似于C++中的map和
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzI5MjM4NiwxMTI0ODUzODIyLDExMj
+eyJoaXN0b3J5IjpbMTA0MjQ2NTkzMiwxMTI0ODUzODIyLDExMj
 AzNjYwMTksLTEyMDI4NzY1OTIsMTExNTQ0ODcyLC0xMDIxMTc4
 MTE3XX0=
 -->
