@@ -92,9 +92,10 @@ a=a.replace("hello","morning")
 #分割
 #例：按空格分割
 arr=a.split(" ")
-#
+#[hello,world!]
+#那要把零散的列表用“-”拼合起来
+string="-"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYzNzQyODYsLTEwMjExNzgxMTddfQ
-==
+eyJoaXN0b3J5IjpbLTc5NjgzNzk0MSwtMTAyMTE3ODExN119
 -->
