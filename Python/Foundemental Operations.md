@@ -68,7 +68,8 @@ for i in string:
 #由于py不像C那样有大括号括住循环范围，所以要严格规整缩进
 ```
 ```python
-#字符串的切片
+#字符串操作
+#切片
 a="hello world!"
 a=a[1:6]
 #表示要切取前五个字符
@@ -83,10 +84,10 @@ a=[::-1]
 a=[-5:-1]
 #表示要切取从倒数第五个字符到倒数第二个字符
 #py的范围都是左开右闭的
-```
-```python
+
 #字符串的替换
-```
+a="hello world!"
+a=a.replace("hello","morning")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTg2Njc5MywtMTAyMTE3ODExN119
+eyJoaXN0b3J5IjpbLTI5MDc5MjQ4LC0xMDIxMTc4MTE3XX0=
 -->
