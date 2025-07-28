@@ -52,6 +52,7 @@ print("end")
 
 #for循环:
 for i in range(10):#表示从0到9
+#例:a=range(5) → [0,5) oder [0,4]
 	print(i)
 #亦可作:
 
@@ -66,6 +67,7 @@ for i in string:
 #实际上只要for循环的这个范围是列表 字符串 元组 集合就都可以
 #由于py不像C那样有大括号括住循环范围，所以要严格规整缩进
 ```
+```python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE1MDAxNDNdfQ==
+eyJoaXN0b3J5IjpbMTc5NjI2ODY3NV19
 -->
