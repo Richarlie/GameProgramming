@@ -76,8 +76,10 @@ a=[:6]
 #表示要切取从开始到第五个字符
 a=[6:]
 #表示要窃切取从第五个字符到最后
+a=[1:5:2]
+#最后一个表示步长，2也就是一个隔一个取
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEyMDI5NDcsLTEwMjExNzgxMTddfQ
-==
+eyJoaXN0b3J5IjpbMTQwNzAyNDI3OSwtMTAyMTE3ODExN119
 -->
