@@ -187,9 +187,11 @@ def day():
 	else:
 		print(".")
 	Day += 1
+
+#若不知chu
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxNDA2MjIsMTEyNDg1MzgyMiwxMT
-IwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3
-ODExN119
+eyJoaXN0b3J5IjpbMTY0NjMwMDkyMCwtMTEwNzE0MDYyMiwxMT
+I0ODUzODIyLDExMjAzNjYwMTksLTEyMDI4NzY1OTIsMTExNTQ0
+ODcyLC0xMDIxMTc4MTE3XX0=
 -->
