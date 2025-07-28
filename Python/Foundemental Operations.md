@@ -49,8 +49,14 @@ while a<100:
 			continue
 	print("e")
 print("end")
-#由于py不像C那样有大括号括住循环范围，所以要yange
+#for循环:
+for i in range(10):
+	print(i)
+
+ arr=[1,3,5,7,8]
+for i in arr
+#由于py不像C那样有大括号括住循环范围，所以要严格规整缩进
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY1MjYwNjldfQ==
+eyJoaXN0b3J5IjpbMTYwMDYxMTkyNl19
 -->
