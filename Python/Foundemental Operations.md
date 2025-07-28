@@ -82,8 +82,11 @@ a=[::-1]
 #表示把整个字符串反过来
 a=[-5:-1]
 #表示要切取从倒数第五个字符到倒数第二个字符
-#py的范围都是左开右bi
+#py的范围都是左开右闭的
+```
+```python
+#字符串的替换
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzQxMzg2NCwtMTAyMTE3ODExN119
+eyJoaXN0b3J5IjpbMjAxOTg2Njc5MywtMTAyMTE3ODExN119
 -->
