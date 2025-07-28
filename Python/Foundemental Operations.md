@@ -15,9 +15,11 @@ b=str(a)
 c=float(b)
 ```
 ```python
-随机数:
-
+//随机数:
+import random
+a=random.randint(1,100)//1到100以内的随机整数
+a=random.uni(1,100)//1到100以内的随机小数
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MzI3NzYxXX0=
+eyJoaXN0b3J5IjpbMTY1NTMyNjE4MF19
 -->
