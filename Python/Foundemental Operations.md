@@ -170,8 +170,14 @@ d.values() #['pig',20]
 #获取所有东西
 d.items() #[('name','pig'),('age',20)]
 ```
+
+## 函数
+```python
+
+def isDouble(n)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjY4ODIyOSwxMTI0ODUzODIyLDExMj
-AzNjYwMTksLTEyMDI4NzY1OTIsMTExNTQ0ODcyLC0xMDIxMTc4
-MTE3XX0=
+eyJoaXN0b3J5IjpbODU5OTM0MDc1LDExMjQ4NTM4MjIsMTEyMD
+M2NjAxOSwtMTIwMjg3NjU5MiwxMTE1NDQ4NzIsLTEwMjExNzgx
+MTddfQ==
 -->
