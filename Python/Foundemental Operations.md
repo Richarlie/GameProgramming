@@ -188,10 +188,11 @@ def day():
 		print(".")
 	Day += 1
 
-#若不知chu
+#若不知传入的参数的数量，用*args，代表省略
+def k(n,*args)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjMwMDkyMCwtMTEwNzE0MDYyMiwxMT
-I0ODUzODIyLDExMjAzNjYwMTksLTEyMDI4NzY1OTIsMTExNTQ0
-ODcyLC0xMDIxMTc4MTE3XX0=
+eyJoaXN0b3J5IjpbLTE3OTY4NDIwNTQsLTExMDcxNDA2MjIsMT
+EyNDg1MzgyMiwxMTIwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0
+NDg3MiwtMTAyMTE3ODExN119
 -->
