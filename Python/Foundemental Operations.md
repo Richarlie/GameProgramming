@@ -42,8 +42,15 @@ else:
 #while循环:
 a=0
 while a<100:
-
+	while a<10:
+		a+=1
+		print(a)
+		if a==5:
+			continue
+	print("e")
+print("end")
+#由于py不像C那样有大括号括住循环范围，所以要yange
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTA0ODIyNV19
+eyJoaXN0b3J5IjpbLTEzMjY1MjYwNjldfQ==
 -->
