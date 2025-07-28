@@ -1,4 +1,5 @@
 # F-Operations of Python
+## 基础语句
 输出:
 长空格 -\t
 不换行 -,end=""
@@ -37,6 +38,7 @@ elif a<80:
 else:
 	print("excellent")
 ```
+## xunhu
 ```python
 #循环语句:
 #while循环:
@@ -139,10 +141,10 @@ b=a.copy()
 a=[4,1,2,3]
 a.sort()
 a=sorted(a)
-#前者直接修改列表中的元素，后者
+#前者直接修改列表中的元素，后者返回一个新列表
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc5MzI1MDUsMTEyNDg1MzgyMiwxMT
-IwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3
-ODExN119
+eyJoaXN0b3J5IjpbMzgwMzMwMjkyLDExMjQ4NTM4MjIsMTEyMD
+M2NjAxOSwtMTIwMjg3NjU5MiwxMTE1NDQ4NzIsLTEwMjExNzgx
+MTddfQ==
 -->
