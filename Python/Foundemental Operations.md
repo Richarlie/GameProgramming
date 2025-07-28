@@ -116,9 +116,11 @@ for a in array:
 
 #表中查找元素
 b=12
-a=[
+a=[1,False,"happy",b,[1,2,3]]
+if 1 not in a:
+	print 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTE3MzgyMSwxMTIwMzY2MDE5LC0xMj
+eyJoaXN0b3J5IjpbMTEyNDg1MzgyMiwxMTIwMzY2MDE5LC0xMj
 AyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3ODExN119
 -->
