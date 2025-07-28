@@ -102,10 +102,10 @@ a = "hello".capitalize() #首字母大写
 a = "hello".title() #全体大写
 a = "hello".lower() #字符串中大写转小写
 a = "hello".upper() #字符串中小写转大写
+
+#
 ```
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI4NzY1OTIsMTExNTQ0ODcyLC0xMD
-IxMTc4MTE3XX0=
+eyJoaXN0b3J5IjpbMTEyMDM2NjAxOSwtMTIwMjg3NjU5MiwxMT
+E1NDQ4NzIsLTEwMjExNzgxMTddfQ==
 -->
