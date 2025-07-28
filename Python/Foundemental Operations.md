@@ -98,12 +98,14 @@ string="-".join(arr)
 # hello-world!
 
 #大小写转换
-a = "hello".op()
-op:
+a = "hello".capitalize() #首字母大写
+a = "hello".title() #全体大写
+a = "hello".lower() #字符串中大写转小写
+a = "hello".upper() #字符串中小写转大写
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDcwMzAzMywxMTE1NDQ4NzIsLTEwMj
-ExNzgxMTddfQ==
+eyJoaXN0b3J5IjpbLTEyMDI4NzY1OTIsMTExNTQ0ODcyLC0xMD
+IxMTc4MTE3XX0=
 -->
