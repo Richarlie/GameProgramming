@@ -153,9 +153,16 @@ a=sorted(a)
 	a=(1,2,3)
 ```
 2. 集合
-
+**无序性** **不重复性**
+```python
+a={1,2,3,4}
+```
+3. 字典
+```python
+d={"name":}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcwNzgwNDIsMTEyNDg1MzgyMiwxMT
-IwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3
-ODExN119
+eyJoaXN0b3J5IjpbMTcxMzI5MjM4NiwxMTI0ODUzODIyLDExMj
+AzNjYwMTksLTEyMDI4NzY1OTIsMTExNTQ0ODcyLC0xMDIxMTc4
+MTE3XX0=
 -->
