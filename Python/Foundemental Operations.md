@@ -1,5 +1,6 @@
 # F-Operations of Python
-1. 输出
+1. 输出:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTE2MDMyNV19
+eyJoaXN0b3J5IjpbLTEzNzUzMzkwMzddfQ==
 -->
