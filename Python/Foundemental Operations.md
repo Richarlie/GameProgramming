@@ -118,9 +118,14 @@ for a in array:
 b=12
 a=[1,False,"happy",b,[1,2,3]]
 if 1 not in a:
-	print 
+	print("...")
+#表尾增加元素
+a.append("abc")
+#表中插入元素
+a.inset
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDg1MzgyMiwxMTIwMzY2MDE5LC0xMj
-AyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3ODExN119
+eyJoaXN0b3J5IjpbLTE5NTM2MDM5MjcsMTEyNDg1MzgyMiwxMT
+IwMzY2MDE5LC0xMjAyODc2NTkyLDExMTU0NDg3MiwtMTAyMTE3
+ODExN119
 -->
