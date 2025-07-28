@@ -20,6 +20,11 @@ a=random.randint(1,100)//1到100以内的随机整数
 b=random.uniform(1,100)//1到100以内的随机小数
 c=random.random()//直接获得从0到1之间的小数
 ```
+```python
+//布尔运算
+a=false
+b= not a//and or not 与或非
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA2OTExNjVdfQ==
+eyJoaXN0b3J5IjpbLTQ3Mzk2MTQ3OF19
 -->
