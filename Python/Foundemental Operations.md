@@ -30,8 +30,17 @@ b= not a#and or not 与或非
 a=int(input("load:"))
 if a<0 or a>100:
 	print("Not right")
-elif a<
+elif a<60:
+	print("failed")
+elif a<80:
+	print("well")
+else:
+	print("excellent")
+```
+```python
+#循环语句:
+while 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIwMzE5MDZdfQ==
+eyJoaXN0b3J5IjpbLTE0NjY1NjczNjRdfQ==
 -->
