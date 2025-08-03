@@ -23,8 +23,9 @@
 ![输入图片说明](/imgs/2025-08-03/4Byaq0UVt0BUvU3t.png)
 **最大值**：每一列取的最大值
 **最小值**：每一列取的最小值
+把max和min都求出来后，按行来求理想解距离和负理想解juli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NDYyNjU3LDY2NDU0NzEzNywtMTk5Mz
+eyJoaXN0b3J5IjpbOTY3MDIwNzc4LDY2NDU0NzEzNywtMTk5Mz
 AwODcwMSwtMTczODg0ODI1OCwxNTI4NTQ5OTU4LDE2ODExMzI4
 MzJdfQ==
 -->
