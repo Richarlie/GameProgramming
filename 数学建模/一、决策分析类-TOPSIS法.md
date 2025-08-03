@@ -18,9 +18,9 @@
 ![输入图片说明](/imgs/2025-08-03/oFYYwV0PEmqAl1Wj.png)
 ### 2.正向化矩阵标准化
 ![输入图片说明](/imgs/2025-08-03/IetQAfBLDO15wUa4.png)
-**竖向标准化：**$/frac$
+**竖向标准化：**$\frac{元素}{此列元素平方和}$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMjI0NDI4LDE1Mjg1NDk5NTgsMTY4MT
-EzMjgzMl19
+eyJoaXN0b3J5IjpbLTE3Mzg4NDgyNTgsMTUyODU0OTk1OCwxNj
+gxMTMyODMyXX0=
 -->
