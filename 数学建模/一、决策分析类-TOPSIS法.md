@@ -16,7 +16,10 @@
 **原始矩阵正向化就是把后三种指标转化成第一种指标**
 如何转化？：
 ![输入图片说明](/imgs/2025-08-03/oFYYwV0PEmqAl1Wj.png)
+### 1.原始矩阵正向化
+![输入图片说明](/imgs/2025-08-03/IetQAfBLDO15wUa4.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODU0OTk1OCwxNjgxMTMyODMyXX0=
+eyJoaXN0b3J5IjpbMTAwMTczODk2NywxNTI4NTQ5OTU4LDE2OD
+ExMzI4MzJdfQ==
 -->
