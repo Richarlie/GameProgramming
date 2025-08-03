@@ -20,7 +20,10 @@
 ![输入图片说明](/imgs/2025-08-03/IetQAfBLDO15wUa4.png)
 **竖向标准化：**$\frac{元素}{此列元素平方和}$
 ### 3.计算得分 并 归一化
+![输入图片说明](/imgs/2025-08-03/4Byaq0UVt0BUvU3t.png)
+**最大值**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMwMDg3MDEsLTE3Mzg4NDgyNTgsMT
-UyODU0OTk1OCwxNjgxMTMyODMyXX0=
+eyJoaXN0b3J5IjpbLTE1NTA1NzMzOTQsLTE5OTMwMDg3MDEsLT
+E3Mzg4NDgyNTgsMTUyODU0OTk1OCwxNjgxMTMyODMyXX0=
 -->
