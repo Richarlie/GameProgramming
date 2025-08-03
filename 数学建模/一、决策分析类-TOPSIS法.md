@@ -23,9 +23,9 @@
 ![输入图片说明](/imgs/2025-08-03/4Byaq0UVt0BUvU3t.png)
 **最大值**：每一列取的最大值
 **最小值**：每一列取的最小值
-把max和min都求出来后，按行来求理想解距离和负理想解juli
+把max和min都求出来后，按行来求**理想解距离**和**负理想解距离**，公式跟求两点距离的一样，每一行的都归一化出来就能得到最终分数
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MDIwNzc4LDY2NDU0NzEzNywtMTk5Mz
-AwODcwMSwtMTczODg0ODI1OCwxNTI4NTQ5OTU4LDE2ODExMzI4
-MzJdfQ==
+eyJoaXN0b3J5IjpbNjExNDA2OTIsNjY0NTQ3MTM3LC0xOTkzMD
+A4NzAxLC0xNzM4ODQ4MjU4LDE1Mjg1NDk5NTgsMTY4MTEzMjgz
+Ml19
 -->
