@@ -8,6 +8,8 @@
 ![输入图片说明](/imgs/2025-08-03/cmnLZOwqI41KrgtE.png)
 ## 步骤
 ![输入图片说明](/imgs/2025-08-03/RVW6SD1kNBUuJ9Fk.png)
+- **正向化**：将指标都变成一个“越大越好”的指标
+-  **标准化**：将不同指标变成同一数量级
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDQ5MjAxOF19
+eyJoaXN0b3J5IjpbMTY4MTEzMjgzMl19
 -->
