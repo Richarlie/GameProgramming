@@ -13,6 +13,7 @@
 ### 1.原始矩阵正向化
 几种指标类别：
 ![输入图片说明](/imgs/2025-08-03/BEI5MuU5ASMZK2xc.png)
+原始矩阵正向化就是把后三种指标转化成di
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk0NTc4NDYsMTY4MTEzMjgzMl19
+eyJoaXN0b3J5IjpbMTcyNjgxODMzOSwxNjgxMTMyODMyXX0=
 -->
