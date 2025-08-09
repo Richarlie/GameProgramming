@@ -13,7 +13,7 @@ numpy.tile(A, reps)
 > 轴 2：表示列（纵向）
 
 **例**：
-①一维数组：
+①一维数组（单轴）：
 ``` python
 import numpy as np
 # 一维数组
@@ -23,7 +23,7 @@ print(b)
 ```
 >输出结果：[1 2 3 1 2 3 1 2 3]
 
-②二维数组：
+②二维数组（单轴）：
 ``` python
 import numpy as np
 # 二维数组
@@ -35,7 +35,12 @@ print(b)
 >[[1 2 1 2]
  [3 4 3 4]]
 
+③二维数组（多轴）：
+```python
+
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzY1ODA1NywtOTAxNzE1ODExLC03MD
+eyJoaXN0b3J5IjpbMTI0NzEwNTQ1MiwtOTAxNzE1ODExLC03MD
 M2MDk3NDJdfQ==
 -->
