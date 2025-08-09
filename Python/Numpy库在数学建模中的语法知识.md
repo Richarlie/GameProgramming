@@ -19,6 +19,18 @@ print(b)
 ```
 >输出结果：[1 2 3 1 2 3 1 2 3]
 
+②二维数组：
+``` python
+import numpy as np
+# 二维数组
+a = np.array([[1, 2], [3, 4]])
+b = np.tile(a, 2)  # 沿第一个轴重复 2 次
+print(b)
+```
+>输出结果：
+>[[1 2 1 2]
+ [3 4 3 4]]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTkxMDI1OSwtNzAzNjA5NzQyXX0=
+eyJoaXN0b3J5IjpbLTkwMTcxNTgxMSwtNzAzNjA5NzQyXX0=
 -->
