@@ -9,12 +9,12 @@ numpy.tile(A, reps)
 >如果是元组，则表示沿每个轴的重复次数。
 >ps:
 >对于二维数组
->轴0：从上到下
->轴1：c
+>轴0：表示行——从上到下
+>轴1：表示列——从左到右
 >对于三维数组
 >轴 0：表示深度（或层数）
-> 轴 1：表示行（横向）
-> 轴 2：表示列（纵向）
+> 轴 1：表示行——从上到下
+> 轴 2：表示列——从左到右
 
 **例**：
 ①一维数组（单轴）：
@@ -45,6 +45,6 @@ print(b)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDgzMjM4OCwxMjQ3MTA1NDUyLC05MD
-E3MTU4MTEsLTcwMzYwOTc0Ml19
+eyJoaXN0b3J5IjpbLTEzMTM1MjIxNzYsMTI0NzEwNTQ1MiwtOT
+AxNzE1ODExLC03MDM2MDk3NDJdfQ==
 -->
