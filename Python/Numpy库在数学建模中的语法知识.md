@@ -38,15 +38,20 @@ b = np.tile(a, 2)  # 沿第一个轴重复 2 次
 print(b)
 ```
 >输出结果：
->[[1 2 1 2]
- [3 4 3 4]]
+>[[1 2]
+ [3 4]
+ [1 2]
+ [3 4]]
 
 ③二维数组（多轴）：
-```python
-
+``` python
+import numpy as np
+a = np.array([[1, 2], [3, 4]])
+b = np.tile(a, (2, 3))  # 沿轴 0 重复 2 次，沿轴 1 重复 3 次
+print(b)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzE0MTUzLDEyNDcxMDU0NTIsLTkwMT
+eyJoaXN0b3J5IjpbMjM1NjMxNTU3LDEyNDcxMDU0NTIsLTkwMT
 cxNTgxMSwtNzAzNjA5NzQyXX0=
 -->
