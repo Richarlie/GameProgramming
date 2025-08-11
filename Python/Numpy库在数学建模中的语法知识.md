@@ -8,6 +8,8 @@ numpy.tile(A, reps)
 >如果是一个整数，则表示沿第一个轴重复该次数；
 >如果是元组，则表示沿每个轴的重复次数。
 >ps:
+>对于一维数组
+>只有一个从左到右的轴
 >对于二维数组
 >轴0：表示行——从上到下
 >轴1：表示列——从左到右
@@ -45,6 +47,6 @@ print(b)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM1MjIxNzYsMTI0NzEwNTQ1MiwtOT
-AxNzE1ODExLC03MDM2MDk3NDJdfQ==
+eyJoaXN0b3J5IjpbMjA3NzE0MTUzLDEyNDcxMDU0NTIsLTkwMT
+cxNTgxMSwtNzAzNjA5NzQyXX0=
 -->
