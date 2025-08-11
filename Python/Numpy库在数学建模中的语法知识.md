@@ -32,7 +32,6 @@ print(b)
 ②二维数组（单轴）：
 ``` python
 import numpy as np
-# 二维数组
 a = np.array([[1, 2], [3, 4]])
 b = np.tile(a, 2)  # 沿第一个轴重复 2 次
 print(b)
@@ -50,8 +49,13 @@ a = np.array([[1, 2], [3, 4]])
 b = np.tile(a, (2, 3))  # 沿轴 0 重复 2 次，沿轴 1 重复 3 次
 print(b)
 ```
+>输出结果：
+>[[1 2 1 2 1 2]
+ [3 4 3 4 3 4]
+ [1 2 1 2 1 2]
+ [3 4 3 4 3 4]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NjMxNTU3LDEyNDcxMDU0NTIsLTkwMT
-cxNTgxMSwtNzAzNjA5NzQyXX0=
+eyJoaXN0b3J5IjpbMTU4NjgxMzgzNCwxMjQ3MTA1NDUyLC05MD
+E3MTU4MTEsLTcwMzYwOTc0Ml19
 -->
