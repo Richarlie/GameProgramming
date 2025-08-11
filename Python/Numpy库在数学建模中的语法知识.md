@@ -17,6 +17,7 @@ numpy.tile(A, reps)
 >轴 0：表示深度（或层数）
 > 轴 1：表示行——从上到下
 > 轴 2：表示列——从左到右
+> (实际上就是sum函数里面的axis，0是按列，1是按行等等等等)
 
 **例**：
 ①一维数组（单轴）：
@@ -56,6 +57,6 @@ print(b)
  [3 4 3 4 3 4]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjgxMzgzNCwxMjQ3MTA1NDUyLC05MD
+eyJoaXN0b3J5IjpbMTU4NjgwMjIwMywxMjQ3MTA1NDUyLC05MD
 E3MTU4MTEsLTcwMzYwOTc0Ml19
 -->
