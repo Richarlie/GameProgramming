@@ -58,8 +58,9 @@ print(b)
  
 **2.liprog函数**：
 ![输入图片说明](/imgs/2025-08-12/uurM8LqAHIeCvHKt.png)
+![输入图片说明](/imgs/2025-08-12/qBVL6DPm6A3BIcD7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTc4NTg0NSwxMjQ3MTA1NDUyLC05MD
-E3MTU4MTEsLTcwMzYwOTc0Ml19
+eyJoaXN0b3J5IjpbMTIyMzU0NDQzMSwtOTAxNzg1ODQ1LDEyND
+cxMDU0NTIsLTkwMTcxNTgxMSwtNzAzNjA5NzQyXX0=
 -->
