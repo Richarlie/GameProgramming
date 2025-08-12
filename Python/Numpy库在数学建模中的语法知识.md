@@ -55,8 +55,11 @@ print(b)
  [3 4 3 4 3 4]
  [1 2 1 2 1 2]
  [3 4 3 4 3 4]]
+ 
+**2.liprog函数**：
+![输入图片说明](/imgs/2025-08-12/uurM8LqAHIeCvHKt.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjgwMjIwMywxMjQ3MTA1NDUyLC05MD
+eyJoaXN0b3J5IjpbLTkwMTc4NTg0NSwxMjQ3MTA1NDUyLC05MD
 E3MTU4MTEsLTcwMzYwOTc0Ml19
 -->
