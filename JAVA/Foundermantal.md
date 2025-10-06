@@ -69,9 +69,10 @@ public class Test {
 }
 ```
 
->好似一般都会声明父类类型的变量然后去
+>好似一般都会声明父类类型的变量，然后让其指向一个新建的子类对象，在调用时可以有巧思，非常牛的
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDg3MzYsLTI1NDcyNzQ4NSwtMTg2Nj
-UyNDkwNSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3
-NDQsLTE3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbMjAxMzYyOTA4MCwtMjU0NzI3NDg1LC0xOD
+Y2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1
+ODc0NCwtMTcwMzMwMzMxNF19
 -->
