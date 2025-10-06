@@ -113,8 +113,13 @@ Animal animal = new Cat();
 animal.play();   // ✅ 输出"抓家具"
 animal.groom();  // ✅ 输出"自我清洁"
 ```
+
+### 3. 类
+同一个文件夹中的多个类可以互相调用，但不能直接用（相当于图纸），要先实例化
+**类里面只能有方法和属性，关于操作什么的只能写在方法中**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTI3OTIwNywtMjU0NzI3NDg1LC0xOD
-Y2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1
-ODc0NCwtMTcwMzMwMzMxNF19
+eyJoaXN0b3J5IjpbLTE1OTI1Njc0MjcsLTkxNTI3OTIwNywtMj
+U0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1
+NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
 -->
