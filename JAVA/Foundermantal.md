@@ -20,6 +20,8 @@ int kkk = scanner.NextInt();
 ### 1.概念
 **类**：对一类事物的抽象
 **对象**：真实存在的事物
+**成员变量**：类中的变量，有默认值——基本是0相关的
+**局部变量**：类中的方法中的变量
 
 ### 2.封装、继承、多态
 | 名词 |意思|
@@ -120,7 +122,7 @@ animal.groom();  // ✅ 输出"自我清洁"
 **关于堆内存和栈内存**：一般栈内存存储变量（名字），堆内存存储值或对象。
 所以只要是new出来的东西，就一定在堆内存中
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjY0NDUwNiwtOTE1Mjc5MjA3LC0yNT
-Q3Mjc0ODUsLTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3
-MjE4LC0xMDY3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
+eyJoaXN0b3J5IjpbLTE1MTM5OTYzMDQsLTkxNTI3OTIwNywtMj
+U0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1
+NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
 -->
