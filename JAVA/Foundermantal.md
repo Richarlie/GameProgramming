@@ -70,9 +70,41 @@ public class Test {
 ```
 
 >好似一般都会声明父类类型的变量，然后让其指向一个新建的子类对象，在调用时可以有巧思，非常牛的
->
+``` java
+abstract class Animal {
+    // 在父类中定义通用行为
+    public abstract void play();
+    public abstract void groom();
+}
+
+class Cat extends Animal {
+    @Override
+    public void play() {
+        scratchFurniture();  // 猫的玩耍方式
+    }
+    
+    @Override 
+    public void groom() {
+        selfClean();         // 猫的美容方式
+    }
+    
+    // 特有方法变成私有或受保护的
+    private void scratchFurniture() {
+        System.out.println("抓家具");
+    }
+    
+    private void selfClean() {
+        System.out.println("自我清洁");
+    }
+}
+
+// 使用：不再需要类型转换！
+Animal animal = new Cat();
+animal.play();   // ✅ 输出"抓家具"
+animal.groom();  // ✅ 输出"自我清洁"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzYyOTA4MCwtMjU0NzI3NDg1LC0xOD
-Y2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1
-ODc0NCwtMTcwMzMwMzMxNF19
+eyJoaXN0b3J5IjpbLTQ0Nzk3OTM1LC0yNTQ3Mjc0ODUsLTE4Nj
+Y1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4
+NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
