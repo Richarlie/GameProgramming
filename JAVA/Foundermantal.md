@@ -10,8 +10,10 @@ int kkk = scanner.NextInt();
 ```
 > 学了面向对象的内容后，我才发现这其实就是先通过import引入一个scanner库，然后再新建一个scanner对象，接着要输入时就通过这个对象对应的类中的成员函数进行实现
 ### 2.形参实参
-
-值传递与引用传递
+**形参**：函数中声明的参数（有副本的意味）
+**实参**：方法调用传入的参数
+**值传递**：直接传值，修改yes
+**引用传递**：直接
 
 ## 二.面向对象
 ### 1.基本内容
@@ -107,7 +109,7 @@ animal.play();   // ✅ 输出"抓家具"
 animal.groom();  // ✅ 输出"自我清洁"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDQyODA3LC0yNTQ3Mjc0ODUsLTE4Nj
+eyJoaXN0b3J5IjpbNDQ3MDM5OTg0LC0yNTQ3Mjc0ODUsLTE4Nj
 Y1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4
 NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
