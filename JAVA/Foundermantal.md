@@ -8,15 +8,19 @@ import java.util.Scanner;
 Scanner scanner = new Scanner(System.in);
 int kkk = scanner.NextInt();
 ```
-> 学了面向对象的内容后，我才发现这其实就是先通过import引入一个scanner库，然后再新建一个scanner对象，接着要输入时就通过这个对象对应的类中的成员函数进行实现
+学了面向对象的内容后，我才发现这其实就是先通过import引入一个scanner库，然后再新建一个scanner对象，接着要输入时就通过这个对象对应的类中的成员函数进行实现
+
 ### 2.形参实参
 **形参**：函数中声明的参数（有副本的意味）
 **实参**：方法调用传入的参数
-**值传递**：直接传值，修改yes
-**引用传递**：直接
+**值传递**：直接传值，修改也是改变值而已
+**引用传递**：直接传地址，修改后地址对应的数据也改了
 
 ## 二.面向对象
-### 1.基本内容
+### 1.概念
+**类**：对一类事物的
+
+### 2.封装、继承、多态
 | 名词 |意思|
 |:--:|:--:|
 |封装|对内隐藏细节，对外暴露接口|
@@ -109,7 +113,7 @@ animal.play();   // ✅ 输出"抓家具"
 animal.groom();  // ✅ 输出"自我清洁"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MDM5OTg0LC0yNTQ3Mjc0ODUsLTE4Nj
-Y1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4
-NzQ0LC0xNzAzMzAzMzE0XX0=
+eyJoaXN0b3J5IjpbMjE0NjE1MTYwMCwtMjU0NzI3NDg1LC0xOD
+Y2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1
+ODc0NCwtMTcwMzMwMzMxNF19
 -->
