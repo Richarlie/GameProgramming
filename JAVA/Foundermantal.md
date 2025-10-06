@@ -69,9 +69,9 @@ public class Test {
 }
 ```
 
->
+>好似一般都会声明父类类型的变量然后去
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMT
-U5ODU4NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMz
-MDMzMTRdfQ==
+eyJoaXN0b3J5IjpbMTY3NDg3MzYsLTI1NDcyNzQ4NSwtMTg2Nj
+UyNDkwNSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3
+NDQsLTE3MDMzMDMzMTRdfQ==
 -->
