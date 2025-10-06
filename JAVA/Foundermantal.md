@@ -19,6 +19,7 @@ int kkk = scanner.NextInt();
 |多态|在继承的基础上有了多种表现形态|
 
 - **继承**和**多态**的区别在于：**有无在子类中对父类的成员函数进行重写，并且通过父类引用调用该函数。**
+- 1.子类继承 2.方法重写 3.父类调用
 - **继承**：
 ``` java
 class Animal {
@@ -68,6 +69,6 @@ public class Test {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMD
-Y3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
+eyJoaXN0b3J5IjpbLTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNj
+g3ODU3MjE4LC0xMDY3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
