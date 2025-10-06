@@ -18,7 +18,8 @@ int kkk = scanner.NextInt();
 
 ## 二.面向对象
 ### 1.概念
-**类**：对一类事物的
+**类**：对一类事物的抽象
+**对象**：真实存在的事物
 
 ### 2.封装、继承、多态
 | 名词 |意思|
@@ -113,7 +114,7 @@ animal.play();   // ✅ 输出"抓家具"
 animal.groom();  // ✅ 输出"自我清洁"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjE1MTYwMCwtMjU0NzI3NDg1LC0xOD
+eyJoaXN0b3J5IjpbLTkxNTI3OTIwNywtMjU0NzI3NDg1LC0xOD
 Y2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1
 ODc0NCwtMTcwMzMwMzMxNF19
 -->
