@@ -29,8 +29,9 @@ class Cat extends Animal {
     // 这是继承带来的代码复用
 }
 ```
-``继承``和``多态``的区别在y
+- **继承**和多态的区别在于：
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQwNTEzOTQsLTE2ODc4NTcyMTgsLT
-EwNjc5NTg3NDQsLTE3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbOTEzNDM1Nzk0LC0xNjg3ODU3MjE4LC0xMD
+Y3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
