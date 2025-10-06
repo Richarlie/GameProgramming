@@ -26,11 +26,9 @@ class Animal {
         System.out.println("动物发出声音");
     }
 }
-
 class Cat extends Animal {
     // 没有重写makeSound方法，直接继承父类的实现
 }
-
 public class Test {
     public static void main(String[] args) {
         Animal myCat = new Cat();  // 向上转型
@@ -46,19 +44,22 @@ class Animal {
         System.out.println("动物发出声音");
     }
 }
-
 class Cat extends Animal {
     @Override  // 关键：重写了父类方法
     public void makeSound() {
         System.out.println("喵喵喵");
     }
 }
-
+class Dog extends Animal {
+    @Override  // 关键：重写了父类方法  
+    public void makeSound() {
+        System.out.println("汪汪汪");
+    }
+}
 public class Test {
     public static void letAnimalSound(Animal animal) {
         animal.makeSound(); // 多态发生在这里！
     }
-    
     public static void main(String[] args) {
         letAnimalSound(new Cat()); // 输出："喵喵喵"
         letAnimalSound(new Dog()); // 输出："汪汪汪"
@@ -67,6 +68,6 @@ public class Test {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg4NjQ4MTMsLTE2ODc4NTcyMTgsLT
-EwNjc5NTg3NDQsLTE3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMD
+Y3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
