@@ -117,9 +117,10 @@ animal.groom();  // ✅ 输出"自我清洁"
 ### 3. 类
 同一个文件夹中的多个类可以互相调用，但不能直接用（相当于图纸），要先实例化
 **类里面只能有方法和属性，关于操作什么的只能写在方法中**
-
+**关于堆内存和栈内存**：一般栈内存存储变量（名字），堆内存存储值或对象。
+所以只要是new出来的东西，就一定在堆内存中
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI1Njc0MjcsLTkxNTI3OTIwNywtMj
-U0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1
-NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
+eyJoaXN0b3J5IjpbMTE5MjY0NDUwNiwtOTE1Mjc5MjA3LC0yNT
+Q3Mjc0ODUsLTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3
+MjE4LC0xMDY3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
