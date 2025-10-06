@@ -11,7 +11,7 @@ int kkk = scanner.NextInt();
 > 学了面向对象的内容后，我才发现这其实就是先通过import引入一个scanner库，然后再新建一个scanner对象，接着要输入时就通过这个对象对应的类中的成员函数进行实现
 
 ## 二.面向对象
-### 基本内容
+### 1.基本内容
 | 名词 |意思|
 |:--:|:--:|
 |封装|对内隐藏细节，对外暴露接口|
@@ -29,7 +29,8 @@ class Cat extends Animal {
     // 这是继承带来的代码复用
 }
 ```
+``继承``和``多态``的区别在y
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLT
-E3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbLTExMDQwNTEzOTQsLTE2ODc4NTcyMTgsLT
+EwNjc5NTg3NDQsLTE3MDMzMDMzMTRdfQ==
 -->
