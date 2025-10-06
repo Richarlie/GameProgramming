@@ -17,21 +17,9 @@ int kkk = scanner.NextInt();
 |封装|对内隐藏细节，对外暴露接口|
 |继承|子类继承父类的内容|
 |多态|在继承的基础上有了多种表现形态|
-```java
-// 继承：Cat "是"一种 Animal
-class Animal {
-    String name;
-    public void eat() { System.out.println("吃东西"); }
-}
 
-class Cat extends Animal { 
-    // Cat 自动拥有了 name 属性和 eat() 方法
-    // 这是继承带来的代码复用
-}
-```
-- **继承**和多态的区别在于：
-
+- **继承**和**多态**的区别在于：**有无在子类中对父类的成员函数进行重写，并且通过父类引用调用该函数。**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNDM1Nzk0LC0xNjg3ODU3MjE4LC0xMD
-Y3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
+eyJoaXN0b3J5IjpbLTQ0NDYzMDE0MCwtMTY4Nzg1NzIxOCwtMT
+A2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
 -->
