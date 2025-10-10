@@ -150,10 +150,12 @@ animal.groom();  // ✅ 输出"自我清洁"
 体现了面向对象程序设计的“封装”呗...
 
 ### 5.构造方法
-
+1. **构造方法是用来实例化对象的**
+2. **名字与类名相同**
+3. ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTA5MTA4OSwtNzE5MTQ3MTAsLTE3ND
-E2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4NjY1MjQ5
-MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4NzQ0LC
-0xNzAzMzAzMzE0XX0=
+eyJoaXN0b3J5IjpbMjIzNDYxODA0LC03MTkxNDcxMCwtMTc0MT
+Y5NTE2LC05MTUyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkw
+NSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLT
+E3MDMzMDMzMTRdfQ==
 -->
