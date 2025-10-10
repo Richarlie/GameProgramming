@@ -27,7 +27,7 @@ c. 一个文件中只能有一个由public修饰的类，还要与java文件同�
 d. Java的浮点数默认为double类型，要float类型的话得在数据后面加"l"
 e. Boolean类不参与类型转换
 f. **关于数据类型转换**：容量小的自动转换为容量大的
-g. **
+g. **关于字符编码**：C——ASCII  Java——Unicode
 
 ## 二.面向对象
 ### 1.概念
@@ -134,9 +134,12 @@ animal.groom();  // ✅ 输出"自我清洁"
 **类里面只能有方法和属性，关于操作什么的只能写在方法中**
 **关于堆内存和栈内存**：一般栈内存存储变量（名字），堆内存存储值或对象。
 所以只要是new出来的东西，就一定在堆内存中
+
+### 4.属性私有化
+**在类中**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTUwMTU2NiwtMTc0MTY5NTE2LC05MT
-UyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4
-NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMzMDMzMT
-RdfQ==
+eyJoaXN0b3J5IjpbLTExMjYxNzYxMTYsLTE3NDE2OTUxNiwtOT
+E1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4NjY1MjQ5MDUsMzE1OTg1
+ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4NzQ0LC0xNzAzMzAzMz
+E0XX0=
 -->
