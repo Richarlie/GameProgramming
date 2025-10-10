@@ -28,7 +28,7 @@ d. Java的浮点数默认为double类型，要float类型的话得在数据后�
 e. Boolean类不参与类型转换
 f. **关于数据类型转换**：容量小的自动转换为容量大的
 g. **关于字符编码**：C——ASCII  Java——Unicode
-h. ID
+h. JDK里面的快捷键**Alt+Insert**选择**Generate**中的**Getter and Setter**就可以直接在类中针对属性生成对应的set()和
 
 ## 二.面向对象
 ### 1.概念
@@ -166,8 +166,8 @@ animal.groom();  // ✅ 输出"自我清洁"
 >But in Java,it is permitted!
 >So it appear as "Overload"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjczNDI2MDYsNTU0MDAyOTMxLC03MT
-kxNDcxMCwtMTc0MTY5NTE2LC05MTUyNzkyMDcsLTI1NDcyNzQ4
-NSwtMTg2NjUyNDkwNSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLT
-EwNjc5NTg3NDQsLTE3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbMjg1OTE4MjcxLDU1NDAwMjkzMSwtNzE5MT
+Q3MTAsLTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUs
+LTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMD
+Y3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
