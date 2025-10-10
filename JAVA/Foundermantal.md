@@ -138,10 +138,12 @@ animal.groom();  // ✅ 输出"自我清洁"
 ### 4.属性私有化
 **在类中，属性通常用private修饰**→**只能在类内部访问**
 需要访问则需要对应的set()和get()方法实现：
->比如有一个
+>比如有一个类Person中的属性名为Name，
+>要对其进行设定的话则需要调用Person.setName()
+>要对其进行调出取值的话需要diao
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTE0NzEwLC0xNzQxNjk1MTYsLTkxNT
-I3OTIwNywtMjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0
-MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF
-19
+eyJoaXN0b3J5IjpbLTE2ODY0NjMyNTksLTcxOTE0NzEwLC0xNz
+QxNjk1MTYsLTkxNTI3OTIwNywtMjU0NzI3NDg1LC0xODY2NTI0
+OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1ODc0NC
+wtMTcwMzMwMzMxNF19
 -->
