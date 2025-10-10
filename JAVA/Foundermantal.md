@@ -16,8 +16,12 @@ int kkk = scanner.NextInt();
 **值传递**：直接传值，修改也是改变值而已
 **引用传递**：直接传地址，修改后地址对应的数据也改了
 
-### 3.
-
+### 3.背
+主函数：作为入口执行程序
+``` Java
+public static void main (String[]args){
+}
+```
 
 ## 二.面向对象
 ### 1.概念
@@ -125,8 +129,8 @@ animal.groom();  // ✅ 输出"自我清洁"
 **关于堆内存和栈内存**：一般栈内存存储变量（名字），堆内存存储值或对象。
 所以只要是new出来的东西，就一定在堆内存中
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDE4MTczMCwtMTc0MTY5NTE2LC05MT
-UyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4
-NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMzMDMzMT
-RdfQ==
+eyJoaXN0b3J5IjpbNTA0MTk4NzM4LC0xNzQxNjk1MTYsLTkxNT
+I3OTIwNywtMjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0
+MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF
+19
 -->
