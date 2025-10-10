@@ -136,10 +136,12 @@ animal.groom();  // ✅ 输出"自我清洁"
 所以只要是new出来的东西，就一定在堆内存中
 
 ### 4.属性私有化
-**在类中**
+**在类中，属性通常用private修饰**→**只能在类内部访问**
+需要访问则需要对应的set()和get()方法实现
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYxNzYxMTYsLTE3NDE2OTUxNiwtOT
-E1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4NjY1MjQ5MDUsMzE1OTg1
-ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4NzQ0LC0xNzAzMzAzMz
-E0XX0=
+eyJoaXN0b3J5IjpbMTM2MTgxMjkwMSwtMTc0MTY5NTE2LC05MT
+UyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4
+NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMzMDMzMT
+RdfQ==
 -->
