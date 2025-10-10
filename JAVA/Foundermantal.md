@@ -165,9 +165,11 @@ JDK里面的快捷键**Alt+Insert**选择**Generate**中的**Getter and Setter**
 **一个类**中的多个方法，方法名相同参数不同
 >While in C,it is fobbidened;
 >But in Java,it is permitted!
->So it appear as "Overload"
+>So it appear as "Overload"'
+
+构造方法亦可以拿来重载，用来实现复杂的需求
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxMjUxOTQ5LDU1NDAwMjkzMSwtNzE5MT
+eyJoaXN0b3J5IjpbMjE4MDgxMDY0LDU1NDAwMjkzMSwtNzE5MT
 Q3MTAsLTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUs
 LTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMD
 Y3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
