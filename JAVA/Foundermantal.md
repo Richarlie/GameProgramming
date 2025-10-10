@@ -17,11 +17,13 @@ int kkk = scanner.NextInt();
 **引用传递**：直接传地址，修改后地址对应的数据也改了
 
 ### 3.背
-主函数：作为入口执行程序
+>主函数：作为入口执行程序
 ``` Java
 public static void main (String[]args){
 }
 ```
+>“%d”这种叫做通配符
+>一个文件中只能有一个由public修饰的类，还要与java文件同名
 
 ## 二.面向对象
 ### 1.概念
@@ -129,7 +131,7 @@ animal.groom();  // ✅ 输出"自我清洁"
 **关于堆内存和栈内存**：一般栈内存存储变量（名字），堆内存存储值或对象。
 所以只要是new出来的东西，就一定在堆内存中
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MTk4NzM4LC0xNzQxNjk1MTYsLTkxNT
+eyJoaXN0b3J5IjpbNDAyMDA1Mjg4LC0xNzQxNjk1MTYsLTkxNT
 I3OTIwNywtMjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0
 MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF
 19
