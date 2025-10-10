@@ -141,7 +141,7 @@ animal.groom();  // ✅ 输出"自我清洁"
 #### **Java类与数据库的联系——ORMapping（）**
 一个Java类对应一张表
 一个Java对象对应表中一条记录
-一个属性对应表中一个
+一个属性对应表中一个属性:)
 
 ### 4.属性私有化
 **在类中，属性通常用private修饰**→**只能在类内部访问**
@@ -159,8 +159,8 @@ animal.groom();  // ✅ 输出"自我清洁"
 3. **没有返回值，不用void关键字**
 >你知道吗，实际上在类外new一个对象时，实际上就是调用构造方法来实例化，只不过如果你在类里面没有写明构造方法，那么它默认是个空的（但还是会存在的），如果在这个方法里面写上一些其他的代码，那么新建一个对象的同时也会执行这个代码——有点像游戏里面角色创建成功的声明有木有！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDQ0ODU5Myw1NTQwMDI5MzEsLTcxOT
-E0NzEwLC0xNzQxNjk1MTYsLTkxNTI3OTIwNywtMjU0NzI3NDg1
-LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMT
-A2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
+eyJoaXN0b3J5IjpbLTEyMzE3MjM4MzEsNTU0MDAyOTMxLC03MT
+kxNDcxMCwtMTc0MTY5NTE2LC05MTUyNzkyMDcsLTI1NDcyNzQ4
+NSwtMTg2NjUyNDkwNSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLT
+EwNjc5NTg3NDQsLTE3MDMzMDMzMTRdfQ==
 -->
