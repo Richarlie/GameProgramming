@@ -130,10 +130,12 @@ animal.groom();  // ✅ 输出"自我清洁"
 ```
 
 ### 3. 类
+#### 基本原则
 同一个文件夹中的多个类可以互相调用，但不能直接用（相当于图纸），要先实例化
 **类里面只能有方法和属性，关于操作什么的只能写在方法中**
 **关于堆内存和栈内存**：一般栈内存存储变量（名字），堆内存存储值或对象。
 所以只要是new出来的东西，就一定在堆内存中
+#### ****
 
 ### 4.属性私有化
 **在类中，属性通常用private修饰**→**只能在类内部访问**
@@ -146,8 +148,8 @@ animal.groom();  // ✅ 输出"自我清洁"
 体现了面向对象程序设计的“封装”呗...
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MzMzOTk1LC03MTkxNDcxMCwtMTc0MT
-Y5NTE2LC05MTUyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkw
-NSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLT
-E3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbMTI3NTQ2MzIxOSwtNzE5MTQ3MTAsLTE3ND
+E2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4NjY1MjQ5
+MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4NzQ0LC
+0xNzAzMzAzMzE0XX0=
 -->
