@@ -137,11 +137,11 @@ animal.groom();  // ✅ 输出"自我清洁"
 
 ### 4.属性私有化
 **在类中，属性通常用private修饰**→**只能在类内部访问**
-需要访问则需要对应的set()和get()方法实现
-
+需要访问则需要对应的set()和get()方法实现：
+>比如有一个
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTgxMjkwMSwtMTc0MTY5NTE2LC05MT
-UyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4
-NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMzMDMzMT
-RdfQ==
+eyJoaXN0b3J5IjpbLTcxOTE0NzEwLC0xNzQxNjk1MTYsLTkxNT
+I3OTIwNywtMjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0
+MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF
+19
 -->
