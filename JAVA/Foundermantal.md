@@ -137,7 +137,7 @@ animal.groom();  // ✅ 输出"自我清洁"
 所以只要是new出来的东西，就一定在堆内存中
 #### **This引用**
 在一个类的方法中，如果传入的参量和类的熟悉重名的话就使"用this"来区分
->比如传入的参数是name
+>比如传入的参数是name，类内部也有一个属性名叫做name，那么在方法里面“This.name”指的就是属性的那个name
 
 ### 4.属性私有化
 **在类中，属性通常用private修饰**→**只能在类内部访问**
@@ -149,9 +149,11 @@ animal.groom();  // ✅ 输出"自我清洁"
 
 体现了面向对象程序设计的“封装”呗...
 
+### 5.构造方法
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNzAzNzQyLC03MTkxNDcxMCwtMTc0MT
-Y5NTE2LC05MTUyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkw
-NSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLT
-E3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbMTY0OTA5MTA4OSwtNzE5MTQ3MTAsLTE3ND
+E2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4NjY1MjQ5
+MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4NzQ0LC
+0xNzAzMzAzMzE0XX0=
 -->
