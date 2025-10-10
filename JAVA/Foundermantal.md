@@ -138,6 +138,10 @@ animal.groom();  // ✅ 输出"自我清洁"
 #### **This引用**
 在一个类的方法中，如果传入的参量和类的熟悉重名的话就使"用this"来区分
 >比如传入的参数是name，类内部也有一个属性名叫做name，那么在方法里面“This.name”指的就是属性的那个name
+#### **Java类与数据库的联系——ORMapping（）**
+一个Java类对应一张表
+一个Java对象对应表中一条记录
+一个属性对应表中一个
 
 ### 4.属性私有化
 **在类中，属性通常用private修饰**→**只能在类内部访问**
@@ -155,8 +159,8 @@ animal.groom();  // ✅ 输出"自我清洁"
 3. **没有返回值，不用void关键字**
 >你知道吗，实际上在类外new一个对象时，实际上就是调用构造方法来实例化，只不过如果你在类里面没有写明构造方法，那么它默认是个空的（但还是会存在的），如果在这个方法里面写上一些其他的代码，那么新建一个对象的同时也会执行这个代码——有点像游戏里面角色创建成功的声明有木有！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0MDAyOTMxLC03MTkxNDcxMCwtMTc0MT
-Y5NTE2LC05MTUyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkw
-NSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLT
-E3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbMTU2NDQ0ODU5Myw1NTQwMDI5MzEsLTcxOT
+E0NzEwLC0xNzQxNjk1MTYsLTkxNTI3OTIwNywtMjU0NzI3NDg1
+LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMT
+A2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
 -->
