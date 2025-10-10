@@ -152,10 +152,12 @@ animal.groom();  // ✅ 输出"自我清洁"
 ### 5.构造方法
 1. **构造方法是用来实例化对象的**
 2. **名字与类名相同**
-3. ****
+3. **没有返回值，不用void关键字**
+
+你知道吗，实际上在类外new一个对象时，实际上就是调用构造方法来实例化，只不过如果你在类里面没有
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNDYxODA0LC03MTkxNDcxMCwtMTc0MT
-Y5NTE2LC05MTUyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkw
-NSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLT
-E3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbLTEzNTcwNTk4MTcsLTcxOTE0NzEwLC0xNz
+QxNjk1MTYsLTkxNTI3OTIwNywtMjU0NzI3NDg1LC0xODY2NTI0
+OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1ODc0NC
+wtMTcwMzMwMzMxNF19
 -->
