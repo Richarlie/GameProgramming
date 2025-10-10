@@ -161,9 +161,10 @@ animal.groom();  // ✅ 输出"自我清洁"
 
 ### 6.方法重载（Overload）
 **一个类**中的多个方法，方法名相同参数不同
+While in C,it is fobbidened,But in Java,it is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTI4MTYwNiw1NTQwMDI5MzEsLTcxOT
-E0NzEwLC0xNzQxNjk1MTYsLTkxNTI3OTIwNywtMjU0NzI3NDg1
-LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMT
-A2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
+eyJoaXN0b3J5IjpbNzkzNzgyNDE1LDU1NDAwMjkzMSwtNzE5MT
+Q3MTAsLTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUs
+LTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMD
+Y3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
