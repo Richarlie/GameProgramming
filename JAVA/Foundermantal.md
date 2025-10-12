@@ -160,6 +160,10 @@ animal.groom();  // ✅ 输出"自我清洁"
 >要对其进行调出取值的话需要调用Person.getName()
 >以此类推
 
+|修饰符|类内部|同一个包(其他类)|(不同包)子类|任何地方|
+|:--:|:--:|:--:|:--:|:--:|
+||||||
+
 JDK里面的快捷键**Alt+Insert**选择**Generate**中的**Getter and Setter**就可以直接在类中针对属性生成对应的set()和get()函数
 
 体现了面向对象程序设计的“封装”呗...
@@ -192,10 +196,10 @@ Such as:
 同一个包下的类可直接使用，其他包下的类要用import语句才能调用
 但是Java.lang包下的类可以不用Import就能调用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzIxMjA3NCwxNzk3OTUyMTg0LC0xOD
-AzNTQ1Nzg2LDExNjE5MDQ0MDIsLTI0Njc3NTU4MywyMTgwODEw
-NjQsNTU0MDAyOTMxLC03MTkxNDcxMCwtMTc0MTY5NTE2LC05MT
-UyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4
-NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMzMDMzMT
-RdfQ==
+eyJoaXN0b3J5IjpbMjI4Njg1NTI2LDE1MTcyMTIwNzQsMTc5Nz
+k1MjE4NCwtMTgwMzU0NTc4NiwxMTYxOTA0NDAyLC0yNDY3NzU1
+ODMsMjE4MDgxMDY0LDU1NDAwMjkzMSwtNzE5MTQ3MTAsLTE3ND
+E2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4NjY1MjQ5
+MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4NzQ0LC
+0xNzAzMzAzMzE0XX0=
 -->
