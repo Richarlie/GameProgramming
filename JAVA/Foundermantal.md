@@ -162,7 +162,10 @@ animal.groom();  // ✅ 输出"自我清洁"
 
 |修饰符|类内部|同一个包(其他类)|(不同包)子类|任何地方|
 |:--:|:--:|:--:|:--:|:--:|
-||||||
+|private|yes||||
+|default|yes|yes|||
+|protected|yes|yes|yes||
+|public|yes|yes|yes|yes|
 
 JDK里面的快捷键**Alt+Insert**选择**Generate**中的**Getter and Setter**就可以直接在类中针对属性生成对应的set()和get()函数
 
@@ -196,10 +199,10 @@ Such as:
 同一个包下的类可直接使用，其他包下的类要用import语句才能调用
 但是Java.lang包下的类可以不用Import就能调用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4Njg1NTI2LDE1MTcyMTIwNzQsMTc5Nz
-k1MjE4NCwtMTgwMzU0NTc4NiwxMTYxOTA0NDAyLC0yNDY3NzU1
-ODMsMjE4MDgxMDY0LDU1NDAwMjkzMSwtNzE5MTQ3MTAsLTE3ND
-E2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4NjY1MjQ5
-MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4NzQ0LC
-0xNzAzMzAzMzE0XX0=
+eyJoaXN0b3J5IjpbMTU4Nzg2MzE3NSwxNTE3MjEyMDc0LDE3OT
+c5NTIxODQsLTE4MDM1NDU3ODYsMTE2MTkwNDQwMiwtMjQ2Nzc1
+NTgzLDIxODA4MTA2NCw1NTQwMDI5MzEsLTcxOTE0NzEwLC0xNz
+QxNjk1MTYsLTkxNTI3OTIwNywtMjU0NzI3NDg1LC0xODY2NTI0
+OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1ODc0NC
+wtMTcwMzMwMzMxNF19
 -->
