@@ -205,10 +205,13 @@ Such as:
 若一个父类的引用指向了子类对象，叫做向上转型，反之叫做向下转型——范围越大越上级呗
 #### 父类引用指向子类对象 (e.g.父类——Person，子类——Student)
 >Person p = new Student();
-这样子的话就没办法z访问
+这样子的话就没办法再访问子类新增的成员了（就是不能再用Student类中的school、id等属性了）
+
+示意图：
+>Student >Person
 #### 向下
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU5ODgwMDQsMTU4Nzg2MzE3NSwxNT
+eyJoaXN0b3J5IjpbLTEzMTI3NzI0OTgsMTU4Nzg2MzE3NSwxNT
 E3MjEyMDc0LDE3OTc5NTIxODQsLTE4MDM1NDU3ODYsMTE2MTkw
 NDQwMiwtMjQ2Nzc1NTgzLDIxODA4MTA2NCw1NTQwMDI5MzEsLT
 cxOTE0NzEwLC0xNzQxNjk1MTYsLTkxNTI3OTIwNywtMjU0NzI3
