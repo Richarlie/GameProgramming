@@ -178,10 +178,10 @@ Such as:
 **Package语句放在类的第一行，用来说明当前类是哪个包下的**
 2. **关于Import**
 同一个包下的类可直接使用，其他包下的类要用import语句才能调用
-但是Java.lang包下的kei
+但是Java.lang包下的类可以不用Import就能调用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NjUyNTMyLDIxODA4MTA2NCw1NTQwMD
-I5MzEsLTcxOTE0NzEwLC0xNzQxNjk1MTYsLTkxNTI3OTIwNywt
-MjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nz
-g1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
+eyJoaXN0b3J5IjpbLTI0Njc3NTU4MywyMTgwODEwNjQsNTU0MD
+AyOTMxLC03MTkxNDcxMCwtMTc0MTY5NTE2LC05MTUyNzkyMDcs
+LTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4NDEsLTE2OD
+c4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMzMDMzMTRdfQ==
 -->
