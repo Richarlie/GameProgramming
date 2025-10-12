@@ -47,7 +47,10 @@ g. **关于字符编码**：C——ASCII  Java——Unicode
 java中只支持单继承（一个子类只能对应一个父类），但C++中可以多继承
 ##### 父子类继承中构造方法的调用
 在调用子类构造方法之前，必须先调用父类的构造方法
-如果子类没有显式地调用父类构造方法，摸扔huiz
+如果子类没有显式地调用父类构造方法，默认会自动调用父类空参构造方法
+如果子类没有显式地调用父类构造方法，且用父类无空参构造方法，会报错
+>super([参数列表])
+
 
 - **继承**和**多态**的区别在于：**有无在子类中对父类的成员函数进行重写，并且通过父类引用调用该函数。**
 - 1.子类继承 2.方法重写 3.父类调用
@@ -189,7 +192,7 @@ Such as:
 同一个包下的类可直接使用，其他包下的类要用import语句才能调用
 但是Java.lang包下的类可以不用Import就能调用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDUwMzk5NCwtMTgwMzU0NTc4NiwxMT
+eyJoaXN0b3J5IjpbMTc5Nzk1MjE4NCwtMTgwMzU0NTc4NiwxMT
 YxOTA0NDAyLC0yNDY3NzU1ODMsMjE4MDgxMDY0LDU1NDAwMjkz
 MSwtNzE5MTQ3MTAsLTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNT
 Q3Mjc0ODUsLTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3
