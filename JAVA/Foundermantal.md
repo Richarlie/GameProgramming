@@ -168,9 +168,16 @@ JDK里面的快捷键**Alt+Insert**选择**Generate**中的**Getter and Setter**
 >So it appear as "Overload"'
 
 构造方法亦可以拿来重载，用来实现复杂的需求
+
+### 7.包(Package)
+实际上就是文件夹
+层层深入，用“.”划分层次
+Such as:
+> src.com.project.tset
+**Packagey**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MDgxMDY0LDU1NDAwMjkzMSwtNzE5MT
-Q3MTAsLTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUs
-LTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMD
-Y3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
+eyJoaXN0b3J5IjpbNTQyOTc3NTI1LDIxODA4MTA2NCw1NTQwMD
+I5MzEsLTcxOTE0NzEwLC0xNzQxNjk1MTYsLTkxNTI3OTIwNywt
+MjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nz
+g1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
 -->
