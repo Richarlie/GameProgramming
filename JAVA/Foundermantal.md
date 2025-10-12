@@ -174,10 +174,10 @@ JDK里面的快捷键**Alt+Insert**选择**Generate**中的**Getter and Setter**
 层层深入，用“.”划分层次
 Such as:
 > src.com.project.tset
-**Packagey**
+**Package语句放在类的第一行，用来说明当前类是哪个包下的**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyOTc3NTI1LDIxODA4MTA2NCw1NTQwMD
-I5MzEsLTcxOTE0NzEwLC0xNzQxNjk1MTYsLTkxNTI3OTIwNywt
-MjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nz
-g1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
+eyJoaXN0b3J5IjpbMjE0Mzg1MzgxMiwyMTgwODEwNjQsNTU0MD
+AyOTMxLC03MTkxNDcxMCwtMTc0MTY5NTE2LC05MTUyNzkyMDcs
+LTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4NDEsLTE2OD
+c4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMzMDMzMTRdfQ==
 -->
