@@ -162,7 +162,7 @@ JDK里面的快捷键**Alt+Insert**选择**Generate**中的**Getter and Setter**
 >你知道吗，实际上在类外new一个对象时，实际上就是调用构造方法来实例化，只不过如果你在类里面没有写明构造方法，那么它默认是个空的（但还是会存在的），如果在这个方法里面写上一些其他的代码，那么新建一个对象的同时也会执行这个代码——有点像游戏里面角色创建成功的声明有木有！
 
 ### 6.方法重载（Overload）
-**一个类**中的多个方法，方法名相同参数不同
+**一个类**中的多个方法，方法名相同但参数不同
 >While in C,it is fobbidened;
 >But in Java,it is permitted!
 >So it appear as "Overload"'
@@ -180,8 +180,9 @@ Such as:
 同一个包下的类可直接使用，其他包下的类要用import语句才能调用
 但是Java.lang包下的类可以不用Import就能调用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Njc3NTU4MywyMTgwODEwNjQsNTU0MD
-AyOTMxLC03MTkxNDcxMCwtMTc0MTY5NTE2LC05MTUyNzkyMDcs
-LTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4NDEsLTE2OD
-c4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMzMDMzMTRdfQ==
+eyJoaXN0b3J5IjpbNzMxNjExNzY1LC0yNDY3NzU1ODMsMjE4MD
+gxMDY0LDU1NDAwMjkzMSwtNzE5MTQ3MTAsLTE3NDE2OTUxNiwt
+OTE1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4NjY1MjQ5MDUsMzE1OT
+g1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4NzQ0LC0xNzAzMzAz
+MzE0XX0=
 -->
