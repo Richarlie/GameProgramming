@@ -171,6 +171,7 @@ JDK里面的快捷键**Alt+Insert**选择**Generate**中的**Getter and Setter**
 >So it appear as "Overload"'
 
 构造方法亦可以拿来重载，用来实现复杂的需求
+#### 另：方法重写(Overwrite)、方法覆写()
 
 ### 7.包(Package)
 1. **基本知识**
@@ -183,9 +184,9 @@ Such as:
 同一个包下的类可直接使用，其他包下的类要用import语句才能调用
 但是Java.lang包下的类可以不用Import就能调用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTkwNDQwMiwtMjQ2Nzc1NTgzLDIxOD
-A4MTA2NCw1NTQwMDI5MzEsLTcxOTE0NzEwLC0xNzQxNjk1MTYs
-LTkxNTI3OTIwNywtMjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNT
-k4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMw
-MzMxNF19
+eyJoaXN0b3J5IjpbLTYzNDEzOTcxMSwxMTYxOTA0NDAyLC0yND
+Y3NzU1ODMsMjE4MDgxMDY0LDU1NDAwMjkzMSwtNzE5MTQ3MTAs
+LTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4Nj
+Y1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4
+NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
