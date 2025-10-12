@@ -46,7 +46,7 @@ g. **关于字符编码**：C——ASCII  Java——Unicode
 目的是为了实现代码的复用
 java中只支持单继承（一个子类只能对应一个父类），但C++中可以多继承
 ##### 父子类继承中构造方法的调用
-在调用子类构造方法之前，必须先调用父类的构造方法（默认jiu）
+在调用子类构造方法之前，必须先调用父类的构造方法（默认就会这样）
 如果子类没有显式地调用父类构造方法，默认会自动调用父类空参构造方法
 如果子类没有显式地调用父类构造方法，且用父类无空参构造方法，会报错
 >super([参数列表])
@@ -192,10 +192,10 @@ Such as:
 同一个包下的类可直接使用，其他包下的类要用import语句才能调用
 但是Java.lang包下的类可以不用Import就能调用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIwNjU5NDUsMTc5Nzk1MjE4NCwtMT
-gwMzU0NTc4NiwxMTYxOTA0NDAyLC0yNDY3NzU1ODMsMjE4MDgx
-MDY0LDU1NDAwMjkzMSwtNzE5MTQ3MTAsLTE3NDE2OTUxNiwtOT
-E1Mjc5MjA3LC0yNTQ3Mjc0ODUsLTE4NjY1MjQ5MDUsMzE1OTg1
-ODQxLC0xNjg3ODU3MjE4LC0xMDY3OTU4NzQ0LC0xNzAzMzAzMz
-E0XX0=
+eyJoaXN0b3J5IjpbMTUxNzIxMjA3NCwxNzk3OTUyMTg0LC0xOD
+AzNTQ1Nzg2LDExNjE5MDQ0MDIsLTI0Njc3NTU4MywyMTgwODEw
+NjQsNTU0MDAyOTMxLC03MTkxNDcxMCwtMTc0MTY5NTE2LC05MT
+UyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4
+NDEsLTE2ODc4NTcyMTgsLTEwNjc5NTg3NDQsLTE3MDMzMDMzMT
+RdfQ==
 -->
