@@ -210,9 +210,13 @@ Such as:
 示意图：
 >Student
 >>Person
-#### 向下
+#### 向下转型
+> Person p = new Student();
+> Student s = (Student)p;
+
+这就叫向下转型
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTYwNTYwMiwxNTg3ODYzMTc1LDE1MT
+eyJoaXN0b3J5IjpbLTMxOTYzNDQ3MiwxNTg3ODYzMTc1LDE1MT
 cyMTIwNzQsMTc5Nzk1MjE4NCwtMTgwMzU0NTc4NiwxMTYxOTA0
 NDAyLC0yNDY3NzU1ODMsMjE4MDgxMDY0LDU1NDAwMjkzMSwtNz
 E5MTQ3MTAsLTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0
