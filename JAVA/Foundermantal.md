@@ -45,6 +45,9 @@ g. **关于字符编码**：C——ASCII  Java——Unicode
 #### 继承
 目的是为了实现代码的复用
 java中只支持单继承（一个子类只能对应一个父类），但C++中可以多继承
+##### 父子类继承中构造方法的调用
+在调用子类构造方法之前，必须先调用父类的构造方法
+如果子类没有显式地调用父类构造方法，摸扔huiz
 
 - **继承**和**多态**的区别在于：**有无在子类中对父类的成员函数进行重写，并且通过父类引用调用该函数。**
 - 1.子类继承 2.方法重写 3.父类调用
@@ -186,9 +189,9 @@ Such as:
 同一个包下的类可直接使用，其他包下的类要用import语句才能调用
 但是Java.lang包下的类可以不用Import就能调用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM1NDU3ODYsMTE2MTkwNDQwMiwtMj
-Q2Nzc1NTgzLDIxODA4MTA2NCw1NTQwMDI5MzEsLTcxOTE0NzEw
-LC0xNzQxNjk1MTYsLTkxNTI3OTIwNywtMjU0NzI3NDg1LC0xOD
-Y2NTI0OTA1LDMxNTk4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1
-ODc0NCwtMTcwMzMwMzMxNF19
+eyJoaXN0b3J5IjpbLTkwMDUwMzk5NCwtMTgwMzU0NTc4NiwxMT
+YxOTA0NDAyLC0yNDY3NzU1ODMsMjE4MDgxMDY0LDU1NDAwMjkz
+MSwtNzE5MTQ3MTAsLTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNT
+Q3Mjc0ODUsLTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3
+MjE4LC0xMDY3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
 -->
