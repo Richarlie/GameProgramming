@@ -43,7 +43,9 @@ g. **关于字符编码**：C——ASCII  Java——Unicode
 |继承|子类继承父类的内容|
 |多态|在继承的基础上有了多种表现形态|
 #### 继承
-目的是为了实现daim
+目的是为了实现代码的复用
+java中只支持单继承（一个子类只能对应一个父类），但C++中可以多继承
+
 - **继承**和**多态**的区别在于：**有无在子类中对父类的成员函数进行重写，并且通过父类引用调用该函数。**
 - 1.子类继承 2.方法重写 3.父类调用
 - **继承**：
@@ -181,7 +183,7 @@ Such as:
 同一个包下的类可直接使用，其他包下的类要用import语句才能调用
 但是Java.lang包下的类可以不用Import就能调用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTM3MzQwNSwtMjQ2Nzc1NTgzLDIxOD
+eyJoaXN0b3J5IjpbMTE2MTkwNDQwMiwtMjQ2Nzc1NTgzLDIxOD
 A4MTA2NCw1NTQwMDI5MzEsLTcxOTE0NzEwLC0xNzQxNjk1MTYs
 LTkxNTI3OTIwNywtMjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNT
 k4NTg0MSwtMTY4Nzg1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMw
