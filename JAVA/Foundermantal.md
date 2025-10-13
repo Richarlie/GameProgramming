@@ -233,10 +233,10 @@ Such as:
 |:--:|:--:|
 |属性|public static|
 |方法|public abstract|
-接口和类定义的区别只在于一个是
+接口和类定义的区别只在于一个是class一个是interface
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTM0ODI2NywtNDAzNzA2NjI5LDc1OT
+eyJoaXN0b3J5IjpbMTQzNzU0NTE0OSwtNDAzNzA2NjI5LDc1OT
 EwMjk2MywtMzE5NjM0NDcyLDE1ODc4NjMxNzUsMTUxNzIxMjA3
 NCwxNzk3OTUyMTg0LC0xODAzNTQ1Nzg2LDExNjE5MDQ0MDIsLT
 I0Njc3NTU4MywyMTgwODEwNjQsNTU0MDAyOTMxLC03MTkxNDcx
