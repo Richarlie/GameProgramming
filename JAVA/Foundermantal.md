@@ -241,13 +241,13 @@ Such as:
 
 **抽象类和接口的区别？**：
 
-
 ### 终：类的完整声明方式
 >[修饰符] calss 类名 [extends 父类名] [implements 接口1，接口2，······]{
->shuxing
+>属性
+>方法
 >}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDQwNTk5NSwxNDM3NTQ1MTQ5LC00MD
+eyJoaXN0b3J5IjpbMTMxOTY1Mzg5NiwxNDM3NTQ1MTQ5LC00MD
 M3MDY2MjksNzU5MTAyOTYzLC0zMTk2MzQ0NzIsMTU4Nzg2MzE3
 NSwxNTE3MjEyMDc0LDE3OTc5NTIxODQsLTE4MDM1NDU3ODYsMT
 E2MTkwNDQwMiwtMjQ2Nzc1NTgzLDIxODA4MTA2NCw1NTQwMDI5
