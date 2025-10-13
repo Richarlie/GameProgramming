@@ -52,8 +52,10 @@ java中只支持单继承（一个子类只能对应一个父类），但C++中�
 >super([参数列表])
 
 
-- **继承**和**多态**的区别在于：**有无在子类中对父类的成员函数进行重写，并且通过父类引用调用该函数。**
-- 1.子类继承 2.方法重写 3.父类调用
+- **继承**和**多态**的区别在于：**有无在子类中对父类的成员函数进行重写，并且通过父类引用调用子类对象。**
+- 1.子类继承 
+- 2.方法重写
+- 3.父类调用
 - **继承**：
 ``` java
 class Animal {
@@ -215,11 +217,14 @@ Such as:
 > Student s = (Student)p;
 
 这就叫向下转型
+
+### 9.Abstract关键字
+用abstract修饰的类叫做抽象类，用abstract修饰的方法叫做抽象方法
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTYzNDQ3MiwxNTg3ODYzMTc1LDE1MT
-cyMTIwNzQsMTc5Nzk1MjE4NCwtMTgwMzU0NTc4NiwxMTYxOTA0
-NDAyLC0yNDY3NzU1ODMsMjE4MDgxMDY0LDU1NDAwMjkzMSwtNz
-E5MTQ3MTAsLTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0
-ODUsLTE4NjY1MjQ5MDUsMzE1OTg1ODQxLC0xNjg3ODU3MjE4LC
-0xMDY3OTU4NzQ0LC0xNzAzMzAzMzE0XX0=
+eyJoaXN0b3J5IjpbNzU5MTAyOTYzLC0zMTk2MzQ0NzIsMTU4Nz
+g2MzE3NSwxNTE3MjEyMDc0LDE3OTc5NTIxODQsLTE4MDM1NDU3
+ODYsMTE2MTkwNDQwMiwtMjQ2Nzc1NTgzLDIxODA4MTA2NCw1NT
+QwMDI5MzEsLTcxOTE0NzEwLC0xNzQxNjk1MTYsLTkxNTI3OTIw
+NywtMjU0NzI3NDg1LC0xODY2NTI0OTA1LDMxNTk4NTg0MSwtMT
+Y4Nzg1NzIxOCwtMTA2Nzk1ODc0NCwtMTcwMzMwMzMxNF19
 -->
