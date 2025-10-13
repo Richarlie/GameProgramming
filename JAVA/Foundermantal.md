@@ -234,13 +234,19 @@ Such as:
 |属性|public static|
 |方法|public abstract|
 接口和类定义的区别只在于一个是class一个是interface
->
+>[修饰符] interface 接口名{
+>[public static] 属性
+>[public abstract] 方法
+>}
+
+**抽象类和接口的区别？**：
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzU0NTE0OSwtNDAzNzA2NjI5LDc1OT
-EwMjk2MywtMzE5NjM0NDcyLDE1ODc4NjMxNzUsMTUxNzIxMjA3
-NCwxNzk3OTUyMTg0LC0xODAzNTQ1Nzg2LDExNjE5MDQ0MDIsLT
-I0Njc3NTU4MywyMTgwODEwNjQsNTU0MDAyOTMxLC03MTkxNDcx
-MCwtMTc0MTY5NTE2LC05MTUyNzkyMDcsLTI1NDcyNzQ4NSwtMT
-g2NjUyNDkwNSwzMTU5ODU4NDEsLTE2ODc4NTcyMTgsLTEwNjc5
-NTg3NDRdfQ==
+eyJoaXN0b3J5IjpbLTE1NjU1MzA1NTcsMTQzNzU0NTE0OSwtND
+AzNzA2NjI5LDc1OTEwMjk2MywtMzE5NjM0NDcyLDE1ODc4NjMx
+NzUsMTUxNzIxMjA3NCwxNzk3OTUyMTg0LC0xODAzNTQ1Nzg2LD
+ExNjE5MDQ0MDIsLTI0Njc3NTU4MywyMTgwODEwNjQsNTU0MDAy
+OTMxLC03MTkxNDcxMCwtMTc0MTY5NTE2LC05MTUyNzkyMDcsLT
+I1NDcyNzQ4NSwtMTg2NjUyNDkwNSwzMTU5ODU4NDEsLTE2ODc4
+NTcyMThdfQ==
 -->
