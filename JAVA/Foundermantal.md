@@ -225,8 +225,12 @@ Such as:
 抽象方法没有方法体，只有声明
 抽象类的子类必须重写其继承的抽象方法
 **“说白了这像一个声明而已，抽象在于它不具体，得被具体化”**
+### 10.接口(Interface)
+可以看成是一个特殊的抽象类
+不能被实例化，只能被实现（类——继承，接口——实现）
+**“感觉像是”**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTIwNjI5Niw3NTkxMDI5NjMsLTMxOT
+eyJoaXN0b3J5IjpbMTUzNzUzMzMzNSw3NTkxMDI5NjMsLTMxOT
 YzNDQ3MiwxNTg3ODYzMTc1LDE1MTcyMTIwNzQsMTc5Nzk1MjE4
 NCwtMTgwMzU0NTc4NiwxMTYxOTA0NDAyLC0yNDY3NzU1ODMsMj
 E4MDgxMDY0LDU1NDAwMjkzMSwtNzE5MTQ3MTAsLTE3NDE2OTUx
