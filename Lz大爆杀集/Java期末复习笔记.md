@@ -65,7 +65,10 @@ public class Student {
  • 负无穷大, 常量`Double.NEGATIVE_INFINITY`
   • 不是数值, 常量 `Double.NaN`
 
+- **关于字符类型char：** 采用**Unicode**编码
+
+- **关于布尔类型：** Java语言的整型值和布尔值之间不能进行类型相互转换
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM3MzEzODYsNzczMTM2NzY1LDEyMT
-QyMTMxODIsOTgzODA1OTIzXX0=
+eyJoaXN0b3J5IjpbMTE3MTcyMjk4Niw3NzMxMzY3NjUsMTIxND
+IxMzE4Miw5ODM4MDU5MjNdfQ==
 -->
