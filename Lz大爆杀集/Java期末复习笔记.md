@@ -73,8 +73,12 @@ public class Student {
 #### 6.变量和常量
 1. **局部变量**
 ![输入图片说明](/imgs/2026-01-01/7oJMIj1LfLg20VdZ.png)
-2.**常量**
+2. **常量定义**
+![输入图片说明](/imgs/2026-01-01/lqziodLvHe0Z5KTk.png)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODc1MDI0NCw3NzMxMzY3NjUsMTIxND
+eyJoaXN0b3J5IjpbLTcwMjgxNjY2NSw3NzMxMzY3NjUsMTIxND
 IxMzE4Miw5ODM4MDU5MjNdfQ==
 -->
