@@ -98,11 +98,12 @@ String类没有提供任何方法来修改字符串中的每个字符，故在Ja
 ![输入图片说明](/imgs/2026-01-01/qiGH5LjhXjWp6FyC.png)
 2. **System.out方法**
 ![输入图片说明](/imgs/2026-01-01/rU3wZVDvazjcr7ZX.png)
-
+#### 章二实例：
+``` java
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjc5NTg4OCwtNzQ2Mzk3MjAyLC0xOT
-MyNzM1NDY2LDc3MzEzNjc2NSwxMjE0MjEzMTgyLDk4MzgwNTky
-M119
+eyJoaXN0b3J5IjpbLTExMzU4NTkyMzcsLTc0NjM5NzIwMiwtMT
+kzMjczNTQ2Niw3NzMxMzY3NjUsMTIxNDIxMzE4Miw5ODM4MDU5
+MjNdfQ==
 -->
