@@ -42,7 +42,7 @@ public class Student {
 #### 4. 数据类型
 - **4种整数类型、2种浮点类型、1种字符类型、1种布尔类型**
 
-|数据类型|存储需求|说明|
+|数据类型|存储需求|
 |--|--|
 |byte|1字节|
 |short|2字节|
@@ -51,13 +51,21 @@ public class Student {
 |float|4字节|
 |double|8字节|
 
-关于
+- **关于整数类型：**
+• 长整型数值有一个后缀 "L" 或 "l", 如 400000000L 
+• 十六进制前缀 "0x" 或 "0X", 如 0XCAFE" 
+• 八进制前缀 "0", 如 010 对应十进制的 8 
+• 二进制前缀 "0b" 或 "0B", 如 0b1001 对应十进制的 9
+
+- **关于浮点数类型：**
+• float 数值需要后缀 "F" 或 "f", 如 3.14F 。无后缀的实数数值是 double 类型。
+
 - **3个特殊的浮点数值：**
-• 正无穷大, 常量 Double.POSITIVE_INFINITY
- • 负无穷大, 常量 Double.NEGATIVE_INFINITY
-  • 不是数值, 常量 Double.NaN
+• 正无穷大, 常量 `Double.POSITIVE_INFINITY`
+ • 负无穷大, 常量`Double.NEGATIVE_INFINITY`
+  • 不是数值, 常量 `Double.NaN`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQxNzg5NTQsNzczMTM2NzY1LDEyMT
+eyJoaXN0b3J5IjpbLTE1OTM3MzEzODYsNzczMTM2NzY1LDEyMT
 QyMTMxODIsOTgzODA1OTIzXX0=
 -->
