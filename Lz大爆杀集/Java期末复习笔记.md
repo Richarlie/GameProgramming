@@ -41,8 +41,18 @@ public class Student {
 ```
 #### 4. 数据类型
 **4种整数类型、2种浮点类型、1种字符类型、1种布尔类型**
+|类型|存储需求|
+|--|--|
 
+|short|2|
+|int|4|
+|long||
+|||
+|||
+|||
+|||
+|||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzQ1MjYyNiw3NzMxMzY3NjUsMTIxND
-IxMzE4Miw5ODM4MDU5MjNdfQ==
+eyJoaXN0b3J5IjpbMjYyMDI4NzcsNzczMTM2NzY1LDEyMTQyMT
+MxODIsOTgzODA1OTIzXX0=
 -->
