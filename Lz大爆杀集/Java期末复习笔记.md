@@ -83,8 +83,8 @@ public class Student {
 #### 8.字符串
 Java没有字符串类型，标准Java类库中提供了一个预定义类String
 String类没有提供任何方法来修改字符串中的每个字符，故在Java文档中将String类的对象称为是**不可变的**
-
+**常用操作**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI3MzU0NjYsNzczMTM2NzY1LDEyMT
-QyMTMxODIsOTgzODA1OTIzXX0=
+eyJoaXN0b3J5IjpbMTY3MzIwNzI3LC0xOTMyNzM1NDY2LDc3Mz
+EzNjc2NSwxMjE0MjEzMTgyLDk4MzgwNTkyM119
 -->
