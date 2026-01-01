@@ -40,19 +40,18 @@ public class Student {
     private int age;
 ```
 #### 4. 数据类型
-**4种整数类型、2种浮点类型、1种字符类型、1种布尔类型**
-|类型|存储需求|
+- **4种整数类型、2种浮点类型、1种字符类型、1种布尔类型**
+|数据类型|存储需求|
 |--|--|
+|byte|1字节|
+|short|2字节|
+|int|4字节|
+|long|8字节|
+|float|4字节|
+|double|8字节|
+- **teshu**
 
-|short|2|
-|int|4|
-|long||
-|||
-|||
-|||
-|||
-|||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMDI4NzcsNzczMTM2NzY1LDEyMTQyMT
-MxODIsOTgzODA1OTIzXX0=
+eyJoaXN0b3J5IjpbNjA3ODY0MDE2LDc3MzEzNjc2NSwxMjE0Mj
+EzMTgyLDk4MzgwNTkyM119
 -->
