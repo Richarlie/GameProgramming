@@ -8,7 +8,7 @@
 ### 2. Java开发环境
 集成开发环境 (IDE, Integrated Development Environment)
 <br>
-## 二、Java语言基础
+## 二、Java语言
 ### 1. Java Application结构 & 源程序结构
 ![Java Application基本结构](/imgs/2026-01-01/WfWrfPlcFYfVSXCt.png)
 ![源程序结构](/imgs/2026-01-01/pmKWUpfFmGrGmJiU.png)
@@ -123,10 +123,11 @@ public class ConsoleIOfester {
     }
 }
 ```
+### 3. Java语言进阶
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDc1MTM3NiwtNzQ2Mzk3MjAyLC0xOT
-MyNzM1NDY2LDc3MzEzNjc2NSwxMjE0MjEzMTgyLDk4MzgwNTky
-M119
+eyJoaXN0b3J5IjpbOTMwMTE4NDkyLC03NDYzOTcyMDIsLTE5Mz
+I3MzU0NjYsNzczMTM2NzY1LDEyMTQyMTMxODIsOTgzODA1OTIz
+XX0=
 -->
