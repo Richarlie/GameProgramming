@@ -23,9 +23,24 @@ public static main(String[] args)
 • 单行注释: 从 "//" 开始到本行结尾都是注释。 • 多行注释: 以 "/\*" 开始到 "\*/" 结束的中间内容全部是注释。
  • 文档注释: 以 "/\*\*" 开始到 "\*/" 结束的中间内容全部是注释。这种注释用于自动生成 文档。
 注意：**Java 的 "/\* \*/" 注释不能嵌套，即不能在 "/\* \*/" 中间再添加 "/\*" 或 "*/"。**
-**关于文档注释：**
 
+**关于文档注释：**
+![输入图片说明](/imgs/2026-01-01/caaqz3S34xHcgaWO.png)
+``` Java
+/**
+ * 表示一个简单的学生类。
+ * <p>这个类存储学生的基本信息，包括姓名和年龄。</p>
+ * 
+ * @author     张三
+ * @version    1.0
+ * @since      1.8
+ */
+public class Student {
+    private String name;
+    private int age;
+```
+#### 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM0NDMzMCw3NzMxMzY3NjUsMTIxND
-IxMzE4Miw5ODM4MDU5MjNdfQ==
+eyJoaXN0b3J5IjpbLTE4OTQ1NTAzMDQsNzczMTM2NzY1LDEyMT
+QyMTMxODIsOTgzODA1OTIzXX0=
 -->
