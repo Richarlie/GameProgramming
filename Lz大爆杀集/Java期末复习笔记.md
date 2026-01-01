@@ -100,10 +100,33 @@ String类没有提供任何方法来修改字符串中的每个字符，故在Ja
 ![输入图片说明](/imgs/2026-01-01/rU3wZVDvazjcr7ZX.png)
 #### 章二实例：
 ``` java
+package ch82.io;
+import java.util.Scanner;
+public class ConsoleIOfester {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.print("姓名: ");
+        String name = input.next(); // 输入姓名，假设姓名中没有空白符
+        System.out.print("年龄: ");
+        int age = input.nextInt(); // 输入年龄，整数
+        System.out.print("体重: ");
+        double weight = input.nextDouble(); // 输入体重，实数
+        System.out.print("地址: ");
+        input.nextLine(); // 跳过上次输入数据时的回车
+        String address = input.nextLine(); // 输入地址，中间可能有空白符
+        // 使用 println 方法输出数据
+        System.out.println("姓名: " + name + ", 年龄: " + age + ", 体重: " + weight + ", 地址: " + address);
+        // 使用 printf 方法输出数据（修正了错误）
+        System.out.printf("姓名: %s, 年龄: %d, 体重: %.2f, 地址: %s\n", name, age, weight, address);
+        // 程序不再使用 System.in 输入，关闭 Scanner 对象
+        input.close();
+    }
+}
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU4NTkyMzcsLTc0NjM5NzIwMiwtMT
-kzMjczNTQ2Niw3NzMxMzY3NjUsMTIxNDIxMzE4Miw5ODM4MDU5
-MjNdfQ==
+eyJoaXN0b3J5IjpbMTAwNDc1MTM3NiwtNzQ2Mzk3MjAyLC0xOT
+MyNzM1NDY2LDc3MzEzNjc2NSwxMjE0MjEzMTgyLDk4MzgwNTky
+M119
 -->
