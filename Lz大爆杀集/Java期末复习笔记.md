@@ -68,7 +68,9 @@ public class Student {
 - **关于字符类型char：** 采用**Unicode**编码
 
 - **关于布尔类型：** Java语言的整型值和布尔值之间不能进行类型相互转换
+#### 5. Java中的标识符风格约定
+![输入图片说明](/imgs/2026-01-01/axPHTMXrhUbfYGIZ.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTcyMjk4Niw3NzMxMzY3NjUsMTIxND
+eyJoaXN0b3J5IjpbLTQwNzYwMzYwOCw3NzMxMzY3NjUsMTIxND
 IxMzE4Miw5ODM4MDU5MjNdfQ==
 -->
