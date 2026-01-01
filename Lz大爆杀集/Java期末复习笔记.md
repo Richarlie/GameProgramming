@@ -41,20 +41,23 @@ public class Student {
 ```
 #### 4. 数据类型
 - **4种整数类型、2种浮点类型、1种字符类型、1种布尔类型**
-|数据类型|存储需求|说明
-|--|--|--|
-|byte|1字节||
+
+|数据类型|存储需求|说明|
+|--|--|
+|byte|1字节|
 |short|2字节|
 |int|4字节|
 |long|8字节|
 |float|4字节|
 |double|8字节|
+
+关于
 - **3个特殊的浮点数值：**
 • 正无穷大, 常量 Double.POSITIVE_INFINITY
  • 负无穷大, 常量 Double.NEGATIVE_INFINITY
   • 不是数值, 常量 Double.NaN
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE1OTE5MDcsNzczMTM2NzY1LDEyMT
+eyJoaXN0b3J5IjpbLTE3MDQxNzg5NTQsNzczMTM2NzY1LDEyMT
 QyMTMxODIsOTgzODA1OTIzXX0=
 -->
