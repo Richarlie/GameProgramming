@@ -125,10 +125,12 @@ public class ConsoleIOfester {
 ```
 ### 3. Java语言进阶
 #### 1. 语句
-****
+**箭头分支的switch语句：**
+![输入图片说明](/imgs/2026-01-01/AvqraWQf7t1BKOsF.png)
+![输入图片说明](/imgs/2026-01-01/7kJEbKsatxtMKltQ.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxNjg5ODA3LC03NDYzOTcyMDIsLTE5Mz
+eyJoaXN0b3J5IjpbOTkxOTUzNzYyLC03NDYzOTcyMDIsLTE5Mz
 I3MzU0NjYsNzczMTM2NzY1LDEyMTQyMTMxODIsOTgzODA1OTIz
 XX0=
 -->
