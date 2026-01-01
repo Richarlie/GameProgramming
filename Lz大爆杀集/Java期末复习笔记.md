@@ -87,7 +87,8 @@ String类没有提供任何方法来修改字符串中的每个字符，故在Ja
 **常用操作：**
 ![输入图片说明](/imgs/2026-01-01/Lmm6ozBsYb3o9EqY.png)
 ![输入图片说明](/imgs/2026-01-01/20Ucf66ZywZNUWEj.png)
+![输入图片说明](/imgs/2026-01-01/GXONaWHVQbr89mlX.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzQ2NDE0NywtMTkzMjczNTQ2Niw3Nz
-MxMzY3NjUsMTIxNDIxMzE4Miw5ODM4MDU5MjNdfQ==
+eyJoaXN0b3J5IjpbOTI1NjYxOTg1LC0xOTMyNzM1NDY2LDc3Mz
+EzNjc2NSwxMjE0MjEzMTgyLDk4MzgwNTkyM119
 -->
