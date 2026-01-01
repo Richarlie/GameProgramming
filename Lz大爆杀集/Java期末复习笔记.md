@@ -131,9 +131,12 @@ public class ConsoleIOfester {
 **异同：**
 ![输入图片说明](/imgs/2026-01-01/Q0eVtTPH7HhXicIO.png)
 2. **Break & Continue:**
-
+- Break:
+![输入图片说明](/imgs/2026-01-01/qMoBoDM0b3ZAAaWn.png)
+- Continue:
+![输入图片说明](/imgs/2026-01-01/B5UXWUaWRzcDfE8k.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDgwOTEyNyw5OTE5NTM3NjIsLTc0Nj
+eyJoaXN0b3J5IjpbMTI5NTMwOTg1Miw5OTE5NTM3NjIsLTc0Nj
 M5NzIwMiwtMTkzMjczNTQ2Niw3NzMxMzY3NjUsMTIxNDIxMzE4
 Miw5ODM4MDU5MjNdfQ==
 -->
