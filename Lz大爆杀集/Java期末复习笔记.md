@@ -75,10 +75,12 @@ public class Student {
 ![输入图片说明](/imgs/2026-01-01/7oJMIj1LfLg20VdZ.png)
 2. **常量定义**
 ![输入图片说明](/imgs/2026-01-01/lqziodLvHe0Z5KTk.png)
-
+#### 7.运算符与表达式
+1. **自动类型转换——“小阶对大阶”** 
+![输入图片说明](/imgs/2026-01-01/qiDwYPeUOi7Unzc5.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjgxNjY2NSw3NzMxMzY3NjUsMTIxND
-IxMzE4Miw5ODM4MDU5MjNdfQ==
+eyJoaXN0b3J5IjpbMzM3ODUyNjc4LDc3MzEzNjc2NSwxMjE0Mj
+EzMTgyLDk4MzgwNTkyM119
 -->
