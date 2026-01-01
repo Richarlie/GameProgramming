@@ -70,7 +70,11 @@ public class Student {
 - **关于布尔类型：** Java语言的整型值和布尔值之间不能进行类型相互转换
 #### 5. Java中的标识符风格约定
 ![输入图片说明](/imgs/2026-01-01/axPHTMXrhUbfYGIZ.png)
+#### 6.变量和常量
+1. **局部变量**
+![输入图片说明](/imgs/2026-01-01/7oJMIj1LfLg20VdZ.png)
+2.**常量**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzYwMzYwOCw3NzMxMzY3NjUsMTIxND
+eyJoaXN0b3J5IjpbMTMyODc1MDI0NCw3NzMxMzY3NjUsMTIxND
 IxMzE4Miw5ODM4MDU5MjNdfQ==
 -->
