@@ -24,8 +24,13 @@
 ### 1. Java Application结构 & 源程序结构
 ![Java Application基本结构](/imgs/2026-01-01/WfWrfPlcFYfVSXCt.png)
 ![源程序结构](/imgs/2026-01-01/pmKWUpfFmGrGmJiU.png)
+### 2. Java语法的一些要点
+#### 1.main
+``` java
+public static main(String[] args)
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDEyNjE3NzgsMTIxNDIxMzE4Miw5OD
-M4MDU5MjNdfQ==
+eyJoaXN0b3J5IjpbLTI4NTg1OTg1MSwxMjE0MjEzMTgyLDk4Mz
+gwNTkyM119
 -->
