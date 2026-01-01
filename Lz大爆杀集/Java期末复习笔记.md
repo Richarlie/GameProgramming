@@ -11,6 +11,7 @@
 3. Java ME（Micro Edition）
 ### 2. Java开发环境
 集成开发环境 (IDE, Integrated Development Environment)
+<br>
 ## 二、Java语言基础
 **考试范围**：
 1. 应用程序结构、源程序文件结构 
@@ -20,7 +21,8 @@
 5. 运算符与表达式 
 6. 字符串：String类、StringBuilder类、StringBuffer类 
 7. 控制台输入与输出：System.out、Scanner类
-
+### 1. Java Application结构
+![输入图片说明](/imgs/2026-01-01/WfWrfPlcFYfVSXCt.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MjIxNTI4LDk4MzgwNTkyM119
+eyJoaXN0b3J5IjpbLTEzMzIxMDUwNjYsOTgzODA1OTIzXX0=
 -->
