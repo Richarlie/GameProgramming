@@ -80,9 +80,11 @@ public class Student {
 ![输入图片说明](/imgs/2026-01-01/qiDwYPeUOi7Unzc5.png)
 2. **隐性强制类型转换**
 ![输入图片说明](/imgs/2026-01-01/xT8Eqb0Qwbs23uDE.png)
-#### 8
+#### 8.字符串
+Java没有字符串类型，标准Java类库中提供了一个预定义类String
+String类没有t
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ0ODc5ODYsNzczMTM2NzY1LDEyMT
-QyMTMxODIsOTgzODA1OTIzXX0=
+eyJoaXN0b3J5IjpbMjAwNjY1MjAwNiw3NzMxMzY3NjUsMTIxND
+IxMzE4Miw5ODM4MDU5MjNdfQ==
 -->
