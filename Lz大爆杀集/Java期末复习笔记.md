@@ -25,12 +25,16 @@
 ![Java Application基本结构](/imgs/2026-01-01/WfWrfPlcFYfVSXCt.png)
 ![源程序结构](/imgs/2026-01-01/pmKWUpfFmGrGmJiU.png)
 ### 2. Java语法的一些要点
-#### 1.main
+#### 1. main方法
 ``` java
 public static main(String[] args)
 ```
+#### 2. 骆驼命名法
+类名通常以大写字母开头的名词。如果名字由多个单词组成，每个单词的第一个字母都 应该大写。 
+这种在一个单词中间使用大写字母的方式有时称为**骆驼命名法(camel case)**。 
+例如：**FirstApp**、**FileInputStream**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTg1OTg1MSwxMjE0MjEzMTgyLDk4Mz
-gwNTkyM119
+eyJoaXN0b3J5IjpbLTE0NjIwMzc1ODcsMTIxNDIxMzE4Miw5OD
+M4MDU5MjNdfQ==
 -->
