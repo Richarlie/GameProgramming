@@ -90,10 +90,14 @@ String类没有提供任何方法来修改字符串中的每个字符，故在Ja
 ![输入图片说明](/imgs/2026-01-01/GXONaWHVQbr89mlX.png)
 ![输入图片说明](/imgs/2026-01-01/cD0g1L2iUCOUPUML.png)
 2. **StringBuilder & StringBuffer**
-
+![输入图片说明](/imgs/2026-01-01/bB1IkaXlDV7RESEW.png)
+3. **文本块（TextBlock）**
+![输入图片说明](/imgs/2026-01-01/juEPw69d5Y0arrBO.png)
+#### 9.kogzji
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjM5NzIwMiwtMTkzMjczNTQ2Niw3Nz
-MxMzY3NjUsMTIxNDIxMzE4Miw5ODM4MDU5MjNdfQ==
+eyJoaXN0b3J5IjpbLTE0MDA4MzE5OTQsLTc0NjM5NzIwMiwtMT
+kzMjczNTQ2Niw3NzMxMzY3NjUsMTIxNDIxMzE4Miw5ODM4MDU5
+MjNdfQ==
 -->
