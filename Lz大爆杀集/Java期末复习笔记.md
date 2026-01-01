@@ -1,9 +1,5 @@
 # Richarlie的Java期末复习笔记
 ## 一、Java语言概述
-**考试范围**：
-1. **Java技术体系和Java平台** 
-2. **Java运行系统** 
-3. **Java开发环境**
 ### 1. Java技术体系和Java平台
 #### · 平台
 1. Java SE（Standard Edition）
@@ -13,14 +9,6 @@
 集成开发环境 (IDE, Integrated Development Environment)
 <br>
 ## 二、Java语言基础
-**考试范围**：
-1. **应用程序结构、源程序文件结构**
-2. **注释**
-3. **标识符与数据类型**
-4. **常量与变量**
-5. **运算符与表达式**
-6. **字符串：String类、StringBuilder类、StringBuffer类**
-7. **控制台输入与输出：System.out、Scanner类**
 ### 1. Java Application结构 & 源程序结构
 ![Java Application基本结构](/imgs/2026-01-01/WfWrfPlcFYfVSXCt.png)
 ![源程序结构](/imgs/2026-01-01/pmKWUpfFmGrGmJiU.png)
@@ -29,12 +17,10 @@
 ``` java
 public static main(String[] args)
 ```
-#### 2. 骆驼命名法
-类名通常以大写字母开头的名词。如果名字由多个单词组成，每个单词的第一个字母都 应该大写。 
-这种在一个单词中间使用大写字母的方式有时称为**骆驼命名法(camel case)**。 
-例如：**FirstApp**、**FileInputStream**
-
+#### 2. 骆驼命名法 (camel case)
+类名通常以大写字母开头的名词。若名字由多个单词组成，每个单词的第一个字母都应大写。  例如：**FirstApp**、**FileInputStream**
+#### 3.注释
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIwMzc1ODcsMTIxNDIxMzE4Miw5OD
-M4MDU5MjNdfQ==
+eyJoaXN0b3J5IjpbLTY0MDkwNTM2NywxMjE0MjEzMTgyLDk4Mz
+gwNTkyM119
 -->
