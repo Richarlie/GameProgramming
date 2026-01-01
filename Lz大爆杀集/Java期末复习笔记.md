@@ -39,8 +39,10 @@ public class Student {
     private String name;
     private int age;
 ```
-#### 4. 
+#### 4. 数据类型
+**4种整数类型、2种浮点类型、1种字符类型、1种布尔类型**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ1NTAzMDQsNzczMTM2NzY1LDEyMT
-QyMTMxODIsOTgzODA1OTIzXX0=
+eyJoaXN0b3J5IjpbLTgxNzQ1MjYyNiw3NzMxMzY3NjUsMTIxND
+IxMzE4Miw5ODM4MDU5MjNdfQ==
 -->
