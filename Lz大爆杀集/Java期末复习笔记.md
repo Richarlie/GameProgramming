@@ -23,7 +23,9 @@ public static main(String[] args)
 • 单行注释: 从 "//" 开始到本行结尾都是注释。 • 多行注释: 以 "/\*" 开始到 "\*/" 结束的中间内容全部是注释。
  • 文档注释: 以 "/\*\*" 开始到 "\*/" 结束的中间内容全部是注释。这种注释用于自动生成 文档。
 注意：**Java 的 "/\* \*/" 注释不能嵌套，即不能在 "/\* \*/" 中间再添加 "/\*" 或 "*/"。**
+**关于文档注释：**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczMTM2NzY1LDEyMTQyMTMxODIsOTgzOD
-A1OTIzXX0=
+eyJoaXN0b3J5IjpbLTE5NjM0NDMzMCw3NzMxMzY3NjUsMTIxND
+IxMzE4Miw5ODM4MDU5MjNdfQ==
 -->
