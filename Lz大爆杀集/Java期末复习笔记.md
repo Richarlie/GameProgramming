@@ -78,9 +78,11 @@ public class Student {
 #### 7.运算符与表达式
 1. **自动类型转换——“小阶对大阶”** 
 ![输入图片说明](/imgs/2026-01-01/qiDwYPeUOi7Unzc5.png)
-
+2. **隐性强制类型转换**
+![输入图片说明](/imgs/2026-01-01/xT8Eqb0Qwbs23uDE.png)
+#### 8
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3ODUyNjc4LDc3MzEzNjc2NSwxMjE0Mj
-EzMTgyLDk4MzgwNTkyM119
+eyJoaXN0b3J5IjpbLTE2NTQ0ODc5ODYsNzczMTM2NzY1LDEyMT
+QyMTMxODIsOTgzODA1OTIzXX0=
 -->
