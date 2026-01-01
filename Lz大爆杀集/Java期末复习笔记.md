@@ -96,12 +96,12 @@ String类没有提供任何方法来修改字符串中的每个字符，故在Ja
 #### 9.控制台输入与输出
 1. **Scanner类**
 ![输入图片说明](/imgs/2026-01-01/qiGH5LjhXjWp6FyC.png)
-
+2. **System.out**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkyMTY2ODIsLTc0NjM5NzIwMiwtMT
-kzMjczNTQ2Niw3NzMxMzY3NjUsMTIxNDIxMzE4Miw5ODM4MDU5
-MjNdfQ==
+eyJoaXN0b3J5IjpbMTA1MjI2NDY3MSwtNzQ2Mzk3MjAyLC0xOT
+MyNzM1NDY2LDc3MzEzNjc2NSwxMjE0MjEzMTgyLDk4MzgwNTky
+M119
 -->
