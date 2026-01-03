@@ -185,11 +185,13 @@ public class ConsoleIOfester {
 4. **方法**
 （1） **可变参数**
 ![输入图片说明](/imgs/2026-01-03/1dmSyoBHoEiYah6R.png)
-（2）****
+（2）**重载（OverLoad）**
+![输入图片说明](/imgs/2026-01-03/XF7MjxviO06Fg73U.png)
+> 说白了就是名字一样内容不一样
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTc5OTk0MiwtNDg2MDczNjcxLDE2Mj
+eyJoaXN0b3J5IjpbMTUxMzYzNjYyNCwtNDg2MDczNjcxLDE2Mj
 kxNzg3ODMsMTYxNTM0OTIyLDE0NjgwODk3NTEsLTE4MjE2MDY0
 NzQsNTMwNDc1NTg4LDQ2NjA1ODc2NywtMTI5NjM0OTc1Miw2OT
 cxNjg1MzYsMTg2NjAxMjEwMiwxMjA3ODUxNzY2LDEzMzIyOTAx
