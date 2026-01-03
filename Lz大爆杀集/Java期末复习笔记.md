@@ -162,14 +162,19 @@ public class ConsoleIOfester {
 ![输入图片说明](/imgs/2026-01-03/tuXAEAZaWxcyqc4g.png)
 ![输入图片说明](/imgs/2026-01-03/0KAJczOZ5vGSGwi7.png)
 ![输入图片说明](/imgs/2026-01-03/Z5H6pBAL5k3ZuiUD.png)
+
 2. **预定义类**
 ![输入图片说明](/imgs/2026-01-03/KkTvVhcFd6uqy3Vz.png)
 **因为只有C、C++可以直接访问内存**
 
-**类的定义例子：**
+**例子：**
+类的定义
 ![输入图片说明](/imgs/2026-01-03/BS0zrIdJudqsqL8B.png)
+
+创建对象
+![输入图片说明](/imgs/2026-01-03/fJ8hbp6d7FFPU2nn.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODEwNjYxNywxNjI5MTc4NzgzLDE2MT
+eyJoaXN0b3J5IjpbLTc1MzY2MDQ0MywxNjI5MTc4NzgzLDE2MT
 UzNDkyMiwxNDY4MDg5NzUxLC0xODIxNjA2NDc0LDUzMDQ3NTU4
 OCw0NjYwNTg3NjcsLTEyOTYzNDk3NTIsNjk3MTY4NTM2LDE4Nj
 YwMTIxMDIsMTIwNzg1MTc2NiwxMzMyMjkwMTU4LDk5MTk1Mzc2
