@@ -157,10 +157,14 @@ public class ConsoleIOfester {
 ## 三、对象与类
 **具体内容在另外的文档里面有，这里只做补充**
 ![输入图片说明](/imgs/2026-01-03/Nwxg4cZJZOxI8BCm.png)
+1. **类之间的关系**
+![输入图片说明](/imgs/2026-01-03/G3Je00MsgEHKxbEB.png)
+![输入图片说明](/imgs/2026-01-03/tuXAEAZaWxcyqc4g.png)
+![输入图片说明](/imgs/2026-01-03/0KAJczOZ5vGSGwi7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE2MDY0NzQsNTMwNDc1NTg4LDQ2Nj
-A1ODc2NywtMTI5NjM0OTc1Miw2OTcxNjg1MzYsMTg2NjAxMjEw
-MiwxMjA3ODUxNzY2LDEzMzIyOTAxNTgsOTkxOTUzNzYyLC03ND
-YzOTcyMDIsLTE5MzI3MzU0NjYsNzczMTM2NzY1LDEyMTQyMTMx
-ODIsOTgzODA1OTIzXX0=
+eyJoaXN0b3J5IjpbMTQ2ODA4OTc1MSwtMTgyMTYwNjQ3NCw1Mz
+A0NzU1ODgsNDY2MDU4NzY3LC0xMjk2MzQ5NzUyLDY5NzE2ODUz
+NiwxODY2MDEyMTAyLDEyMDc4NTE3NjYsMTMzMjI5MDE1OCw5OT
+E5NTM3NjIsLTc0NjM5NzIwMiwtMTkzMjczNTQ2Niw3NzMxMzY3
+NjUsMTIxNDIxMzE4Miw5ODM4MDU5MjNdfQ==
 -->
