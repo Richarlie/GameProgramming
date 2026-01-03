@@ -147,10 +147,10 @@ public class ConsoleIOfester {
 3. **初始化**
 ![输入图片说明](/imgs/2026-01-03/EGSBu3b3VzR2QBlv.png)
 4. **复制**
-
+![输入图片说明](/imgs/2026-01-03/ihQNC7B5E9zJOstL.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTc2ODgwMiwxODY2MDEyMTAyLDEyMD
-c4NTE3NjYsMTMzMjI5MDE1OCw5OTE5NTM3NjIsLTc0NjM5NzIw
-MiwtMTkzMjczNTQ2Niw3NzMxMzY3NjUsMTIxNDIxMzE4Miw5OD
-M4MDU5MjNdfQ==
+eyJoaXN0b3J5IjpbNjk3MTY4NTM2LDE4NjYwMTIxMDIsMTIwNz
+g1MTc2NiwxMzMyMjkwMTU4LDk5MTk1Mzc2MiwtNzQ2Mzk3MjAy
+LC0xOTMyNzM1NDY2LDc3MzEzNjc2NSwxMjE0MjEzMTgyLDk4Mz
+gwNTkyM119
 -->
