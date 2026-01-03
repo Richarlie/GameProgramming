@@ -173,8 +173,10 @@ public class ConsoleIOfester {
 
 创建对象
 ![输入图片说明](/imgs/2026-01-03/fJ8hbp6d7FFPU2nn.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzY2MDQ0MywxNjI5MTc4NzgzLDE2MT
+eyJoaXN0b3J5IjpbMTc3ODUwNjgxNywxNjI5MTc4NzgzLDE2MT
 UzNDkyMiwxNDY4MDg5NzUxLC0xODIxNjA2NDc0LDUzMDQ3NTU4
 OCw0NjYwNTg3NjcsLTEyOTYzNDk3NTIsNjk3MTY4NTM2LDE4Nj
 YwMTIxMDIsMTIwNzg1MTc2NiwxMzMyMjkwMTU4LDk5MTk1Mzc2
