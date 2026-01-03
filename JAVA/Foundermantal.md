@@ -204,7 +204,7 @@ Such as:
 ### 8.对象转型(Casting)
 一个父类的引用可以指向子类的对象（**父类引用指向子类对象**）
 若一个父类的引用指向子类对象，那么该对象不能再访问子类新增的成员——**可以想象子类是父类的extension**
-若一个父类的引用指向了子类对象，叫做向上转型，反之叫做向下转型——范围越大越上级呗
+若一个父类的引用指向了子类对象，叫做向上转型，反之叫做向下转型——**范围越大越上级呗**
 #### 父类引用指向子类对象 (e.g.父类——Person，子类——Student)
 >Person p = new Student();
 这样子的话就没办法再访问子类新增的成员了（就是不能再用Student类中的school、id等属性了）
@@ -251,11 +251,11 @@ Such as:
 ### 11.泛型类
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDEwNjU5NiwtMjUyMTE3MzAzLDE0MT
-Q2ODU0NjUsMTQzNzU0NTE0OSwtNDAzNzA2NjI5LDc1OTEwMjk2
-MywtMzE5NjM0NDcyLDE1ODc4NjMxNzUsMTUxNzIxMjA3NCwxNz
-k3OTUyMTg0LC0xODAzNTQ1Nzg2LDExNjE5MDQ0MDIsLTI0Njc3
-NTU4MywyMTgwODEwNjQsNTU0MDAyOTMxLC03MTkxNDcxMCwtMT
-c0MTY5NTE2LC05MTUyNzkyMDcsLTI1NDcyNzQ4NSwtMTg2NjUy
-NDkwNV19
+eyJoaXN0b3J5IjpbOTkxNDY1NDQ0LDE5NjAxMDY1OTYsLTI1Mj
+ExNzMwMywxNDE0Njg1NDY1LDE0Mzc1NDUxNDksLTQwMzcwNjYy
+OSw3NTkxMDI5NjMsLTMxOTYzNDQ3MiwxNTg3ODYzMTc1LDE1MT
+cyMTIwNzQsMTc5Nzk1MjE4NCwtMTgwMzU0NTc4NiwxMTYxOTA0
+NDAyLC0yNDY3NzU1ODMsMjE4MDgxMDY0LDU1NDAwMjkzMSwtNz
+E5MTQ3MTAsLTE3NDE2OTUxNiwtOTE1Mjc5MjA3LC0yNTQ3Mjc0
+ODVdfQ==
 -->
