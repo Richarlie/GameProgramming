@@ -198,11 +198,12 @@ public class ConsoleIOfester {
 静态常量：
 ![输入图片说明](/imgs/2026-01-03/GORSI3KXP2jy6XDt.png)
 静态方法：
-
+![输入图片说明](/imgs/2026-01-03/b8ea8spbaQ5UEWgS.png)
+![输入图片说明](/imgs/2026-01-03/puZ0ApzZnqLcFF9k.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzQ3MTIxMCwzODM3ODEyMTIsMTUxMz
+eyJoaXN0b3J5IjpbMTU1Mzc3MDg5MywzODM3ODEyMTIsMTUxMz
 YzNjYyNCwtNDg2MDczNjcxLDE2MjkxNzg3ODMsMTYxNTM0OTIy
 LDE0NjgwODk3NTEsLTE4MjE2MDY0NzQsNTMwNDc1NTg4LDQ2Nj
 A1ODc2NywtMTI5NjM0OTc1Miw2OTcxNjg1MzYsMTg2NjAxMjEw
