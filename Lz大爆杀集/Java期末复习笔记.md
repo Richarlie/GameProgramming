@@ -153,8 +153,9 @@ public class ConsoleIOfester {
 5.  **多维数组**：
 ![输入图片说明](/imgs/2026-01-03/vgqRkVMyI9yMjr1N.png)
 因此实际上每一行的长度都可以是不一样的
+![输入图片说明](/imgs/2026-01-03/zb6S54ii0U6KBACE.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNjQwMjA3LC0xMjk2MzQ5NzUyLDY5Nz
+eyJoaXN0b3J5IjpbNDY2MDU4NzY3LC0xMjk2MzQ5NzUyLDY5Nz
 E2ODUzNiwxODY2MDEyMTAyLDEyMDc4NTE3NjYsMTMzMjI5MDE1
 OCw5OTE5NTM3NjIsLTc0NjM5NzIwMiwtMTkzMjczNTQ2Niw3Nz
 MxMzY3NjUsMTIxNDIxMzE4Miw5ODM4MDU5MjNdfQ==
