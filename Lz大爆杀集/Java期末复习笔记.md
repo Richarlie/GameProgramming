@@ -178,12 +178,14 @@ public class ConsoleIOfester {
 ![输入图片说明](/imgs/2026-01-03/6bebf9DYjXzQlG0f.png)
 ![输入图片说明](/imgs/2026-01-03/cMcAPYKWR0bjHpqH.png)
 ![输入图片说明](/imgs/2026-01-03/an6IQOpXuw8Pp0CR.png)
+
 **如何规定好类或者方法的访问修饰符呢？**
+![输入图片说明](/imgs/2026-01-03/cpRle9ol7OjRuA46.png)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mjg1MDI0NCwxNjI5MTc4NzgzLDE2MT
+eyJoaXN0b3J5IjpbLTQ4NjA3MzY3MSwxNjI5MTc4NzgzLDE2MT
 UzNDkyMiwxNDY4MDg5NzUxLC0xODIxNjA2NDc0LDUzMDQ3NTU4
 OCw0NjYwNTg3NjcsLTEyOTYzNDk3NTIsNjk3MTY4NTM2LDE4Nj
 YwMTIxMDIsMTIwNzg1MTc2NiwxMzMyMjkwMTU4LDk5MTk1Mzc2
