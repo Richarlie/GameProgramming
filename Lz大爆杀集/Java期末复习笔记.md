@@ -139,9 +139,12 @@ public class ConsoleIOfester {
 #### 2.数组
 1. **声明**
 ![输入图片说明](/imgs/2026-01-03/WOT0vQCSc8Q1TxPh.png)
-2. ****
+2. **创建**
+**基本类型**
+
+**引用类型**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgyOTMyNCwxMjA3ODUxNzY2LDEzMz
-IyOTAxNTgsOTkxOTUzNzYyLC03NDYzOTcyMDIsLTE5MzI3MzU0
-NjYsNzczMTM2NzY1LDEyMTQyMTMxODIsOTgzODA1OTIzXX0=
+eyJoaXN0b3J5IjpbNzg4NDUzODE4LDEyMDc4NTE3NjYsMTMzMj
+I5MDE1OCw5OTE5NTM3NjIsLTc0NjM5NzIwMiwtMTkzMjczNTQ2
+Niw3NzMxMzY3NjUsMTIxNDIxMzE4Miw5ODM4MDU5MjNdfQ==
 -->
