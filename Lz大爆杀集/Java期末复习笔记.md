@@ -155,11 +155,11 @@ public class ConsoleIOfester {
 因此实际上每一行的长度都可以是不一样的
 ![输入图片说明](/imgs/2026-01-03/zb6S54ii0U6KBACE.png)
 ## 三、对象与类
-**具体内容在另外的文档里面有，**
+**具体内容在另外的文档里面有，这里只做补充**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDMzMzM1MSw0NjYwNTg3NjcsLTEyOT
-YzNDk3NTIsNjk3MTY4NTM2LDE4NjYwMTIxMDIsMTIwNzg1MTc2
-NiwxMzMyMjkwMTU4LDk5MTk1Mzc2MiwtNzQ2Mzk3MjAyLC0xOT
-MyNzM1NDY2LDc3MzEzNjc2NSwxMjE0MjEzMTgyLDk4MzgwNTky
-M119
+eyJoaXN0b3J5IjpbNTMwNDc1NTg4LDQ2NjA1ODc2NywtMTI5Nj
+M0OTc1Miw2OTcxNjg1MzYsMTg2NjAxMjEwMiwxMjA3ODUxNzY2
+LDEzMzIyOTAxNTgsOTkxOTUzNzYyLC03NDYzOTcyMDIsLTE5Mz
+I3MzU0NjYsNzczMTM2NzY1LDEyMTQyMTMxODIsOTgzODA1OTIz
+XX0=
 -->
