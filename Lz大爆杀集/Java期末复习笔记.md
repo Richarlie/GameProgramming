@@ -191,10 +191,10 @@ public class ConsoleIOfester {
 
 （3）**this**
 在类中，当成员变量和局部变量同名时，要在方法体里面**用this指代成员变量**
-当然，如果方法体中没有重名的局部变量的haunt
+当然，如果方法体中没有重名的局部变量的话就可以省略——毕竟怎么叫都是这个成员变量
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNDUwMDY5LDE1MTM2MzY2MjQsLTQ4Nj
+eyJoaXN0b3J5IjpbMzgzNzgxMjEyLDE1MTM2MzY2MjQsLTQ4Nj
 A3MzY3MSwxNjI5MTc4NzgzLDE2MTUzNDkyMiwxNDY4MDg5NzUx
 LC0xODIxNjA2NDc0LDUzMDQ3NTU4OCw0NjYwNTg3NjcsLTEyOT
 YzNDk3NTIsNjk3MTY4NTM2LDE4NjYwMTIxMDIsMTIwNzg1MTc2
